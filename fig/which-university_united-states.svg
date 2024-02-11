@@ -6,11 +6,11 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-08-22T11:25:48.378233</dc:date>
+    <dc:date>2024-02-11T10:50:25.076365</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.8.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -30,404 +30,404 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 162.28125 1220.942188 
-L 450 1220.942188 
-L 450 25.6425 
-L 162.28125 25.6425 
+    <path d="M 162.25 1220.12 
+L 450 1220.12 
+L 450 25.6875 
+L 162.25 25.6875 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 162.28125 1166.610384 
-L 436.299107 1166.610384 
-L 436.299107 1148.796677 
-L 162.28125 1148.796677 
+    <path d="M 162.25 1165.827614 
+L 436.297619 1165.827614 
+L 436.297619 1148.026831 
+L 162.25 1148.026831 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
-    <path d="M 162.28125 1144.343251 
-L 326.691964 1144.343251 
-L 326.691964 1126.529545 
-L 162.28125 1126.529545 
+    <path d="M 162.25 1143.576636 
+L 326.678571 1143.576636 
+L 326.678571 1125.775853 
+L 162.25 1125.775853 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
-    <path d="M 162.28125 1122.076118 
-L 253.620536 1122.076118 
-L 253.620536 1104.262412 
-L 162.28125 1104.262412 
+    <path d="M 162.25 1121.325658 
+L 253.599206 1121.325658 
+L 253.599206 1103.524875 
+L 162.25 1103.524875 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
-    <path d="M 162.28125 1099.808985 
-L 235.352679 1099.808985 
-L 235.352679 1081.995279 
-L 162.28125 1081.995279 
+    <path d="M 162.25 1099.07468 
+L 235.329365 1099.07468 
+L 235.329365 1081.273897 
+L 162.25 1081.273897 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
-    <path d="M 162.28125 1077.541852 
-L 217.084821 1077.541852 
-L 217.084821 1059.728146 
-L 162.28125 1059.728146 
+    <path d="M 162.25 1076.823702 
+L 217.059524 1076.823702 
+L 217.059524 1059.022919 
+L 162.25 1059.022919 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_8">
-    <path d="M 162.28125 1055.27472 
-L 217.084821 1055.27472 
-L 217.084821 1037.461013 
-L 162.28125 1037.461013 
+    <path d="M 162.25 1054.572724 
+L 217.059524 1054.572724 
+L 217.059524 1036.771941 
+L 162.25 1036.771941 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_9">
-    <path d="M 162.28125 1033.007587 
-L 217.084821 1033.007587 
-L 217.084821 1015.193881 
-L 162.28125 1015.193881 
+    <path d="M 162.25 1032.321746 
+L 217.059524 1032.321746 
+L 217.059524 1014.520963 
+L 162.25 1014.520963 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_10">
-    <path d="M 162.28125 1010.740454 
-L 217.084821 1010.740454 
-L 217.084821 992.926748 
-L 162.28125 992.926748 
+    <path d="M 162.25 1010.070768 
+L 217.059524 1010.070768 
+L 217.059524 992.269985 
+L 162.25 992.269985 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_11">
-    <path d="M 162.28125 988.473321 
-L 217.084821 988.473321 
-L 217.084821 970.659615 
-L 162.28125 970.659615 
+    <path d="M 162.25 987.819789 
+L 217.059524 987.819789 
+L 217.059524 970.019007 
+L 162.25 970.019007 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_12">
-    <path d="M 162.28125 966.206189 
-L 198.816964 966.206189 
-L 198.816964 948.392482 
-L 162.28125 948.392482 
+    <path d="M 162.25 965.568811 
+L 198.789683 965.568811 
+L 198.789683 947.768029 
+L 162.25 947.768029 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_13">
-    <path d="M 162.28125 943.939056 
-L 198.816964 943.939056 
-L 198.816964 926.12535 
-L 162.28125 926.12535 
+    <path d="M 162.25 943.317833 
+L 198.789683 943.317833 
+L 198.789683 925.517051 
+L 162.25 925.517051 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_14">
-    <path d="M 162.28125 921.671923 
-L 198.816964 921.671923 
-L 198.816964 903.858217 
-L 162.28125 903.858217 
+    <path d="M 162.25 921.066855 
+L 198.789683 921.066855 
+L 198.789683 903.266073 
+L 162.25 903.266073 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_15">
-    <path d="M 162.28125 899.40479 
-L 198.816964 899.40479 
-L 198.816964 881.591084 
-L 162.28125 881.591084 
+    <path d="M 162.25 898.815877 
+L 198.789683 898.815877 
+L 198.789683 881.015095 
+L 162.25 881.015095 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_16">
-    <path d="M 162.28125 877.137657 
-L 198.816964 877.137657 
-L 198.816964 859.323951 
-L 162.28125 859.323951 
+    <path d="M 162.25 876.564899 
+L 198.789683 876.564899 
+L 198.789683 858.764117 
+L 162.25 858.764117 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_17">
-    <path d="M 162.28125 854.870525 
-L 198.816964 854.870525 
-L 198.816964 837.056818 
-L 162.28125 837.056818 
+    <path d="M 162.25 854.313921 
+L 198.789683 854.313921 
+L 198.789683 836.513139 
+L 162.25 836.513139 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_18">
-    <path d="M 162.28125 832.603392 
-L 198.816964 832.603392 
-L 198.816964 814.789686 
-L 162.28125 814.789686 
+    <path d="M 162.25 832.062943 
+L 198.789683 832.062943 
+L 198.789683 814.262161 
+L 162.25 814.262161 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_19">
-    <path d="M 162.28125 810.336259 
-L 198.816964 810.336259 
-L 198.816964 792.522553 
-L 162.28125 792.522553 
+    <path d="M 162.25 809.811965 
+L 198.789683 809.811965 
+L 198.789683 792.011183 
+L 162.25 792.011183 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_20">
-    <path d="M 162.28125 788.069126 
-L 198.816964 788.069126 
-L 198.816964 770.25542 
-L 162.28125 770.25542 
+    <path d="M 162.25 787.560987 
+L 198.789683 787.560987 
+L 198.789683 769.760205 
+L 162.25 769.760205 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_21">
-    <path d="M 162.28125 765.801994 
-L 198.816964 765.801994 
-L 198.816964 747.988287 
-L 162.28125 747.988287 
+    <path d="M 162.25 765.310009 
+L 198.789683 765.310009 
+L 198.789683 747.509227 
+L 162.25 747.509227 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_22">
-    <path d="M 162.28125 743.534861 
-L 198.816964 743.534861 
-L 198.816964 725.721155 
-L 162.28125 725.721155 
+    <path d="M 162.25 743.059031 
+L 198.789683 743.059031 
+L 198.789683 725.258249 
+L 162.25 725.258249 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_23">
-    <path d="M 162.28125 721.267728 
-L 180.549107 721.267728 
-L 180.549107 703.454022 
-L 162.28125 703.454022 
+    <path d="M 162.25 720.808053 
+L 180.519841 720.808053 
+L 180.519841 703.007271 
+L 162.25 703.007271 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_24">
-    <path d="M 162.28125 699.000595 
-L 180.549107 699.000595 
-L 180.549107 681.186889 
-L 162.28125 681.186889 
+    <path d="M 162.25 698.557075 
+L 180.519841 698.557075 
+L 180.519841 680.756293 
+L 162.25 680.756293 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_25">
-    <path d="M 162.28125 676.733462 
-L 180.549107 676.733462 
-L 180.549107 658.919756 
-L 162.28125 658.919756 
+    <path d="M 162.25 676.306097 
+L 180.519841 676.306097 
+L 180.519841 658.505315 
+L 162.25 658.505315 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_26">
-    <path d="M 162.28125 654.46633 
-L 180.549107 654.46633 
-L 180.549107 636.652623 
-L 162.28125 636.652623 
+    <path d="M 162.25 654.055119 
+L 180.519841 654.055119 
+L 180.519841 636.254337 
+L 162.25 636.254337 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_27">
-    <path d="M 162.28125 632.199197 
-L 180.549107 632.199197 
-L 180.549107 614.385491 
-L 162.28125 614.385491 
+    <path d="M 162.25 631.804141 
+L 180.519841 631.804141 
+L 180.519841 614.003359 
+L 162.25 614.003359 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_28">
-    <path d="M 162.28125 609.932064 
-L 180.549107 609.932064 
-L 180.549107 592.118358 
-L 162.28125 592.118358 
+    <path d="M 162.25 609.553163 
+L 180.519841 609.553163 
+L 180.519841 591.752381 
+L 162.25 591.752381 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_29">
-    <path d="M 162.28125 587.664931 
-L 180.549107 587.664931 
-L 180.549107 569.851225 
-L 162.28125 569.851225 
+    <path d="M 162.25 587.302185 
+L 180.519841 587.302185 
+L 180.519841 569.501403 
+L 162.25 569.501403 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_30">
-    <path d="M 162.28125 565.397799 
-L 180.549107 565.397799 
-L 180.549107 547.584092 
-L 162.28125 547.584092 
+    <path d="M 162.25 565.051207 
+L 180.519841 565.051207 
+L 180.519841 547.250425 
+L 162.25 547.250425 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_31">
-    <path d="M 162.28125 543.130666 
-L 180.549107 543.130666 
-L 180.549107 525.31696 
-L 162.28125 525.31696 
+    <path d="M 162.25 542.800229 
+L 180.519841 542.800229 
+L 180.519841 524.999447 
+L 162.25 524.999447 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_32">
-    <path d="M 162.28125 520.863533 
-L 180.549107 520.863533 
-L 180.549107 503.049827 
-L 162.28125 503.049827 
+    <path d="M 162.25 520.549251 
+L 180.519841 520.549251 
+L 180.519841 502.748469 
+L 162.25 502.748469 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_33">
-    <path d="M 162.28125 498.5964 
-L 180.549107 498.5964 
-L 180.549107 480.782694 
-L 162.28125 480.782694 
+    <path d="M 162.25 498.298273 
+L 180.519841 498.298273 
+L 180.519841 480.497491 
+L 162.25 480.497491 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_34">
-    <path d="M 162.28125 476.329267 
-L 180.549107 476.329267 
-L 180.549107 458.515561 
-L 162.28125 458.515561 
+    <path d="M 162.25 476.047295 
+L 180.519841 476.047295 
+L 180.519841 458.246513 
+L 162.25 458.246513 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_35">
-    <path d="M 162.28125 454.062135 
-L 180.549107 454.062135 
-L 180.549107 436.248428 
-L 162.28125 436.248428 
+    <path d="M 162.25 453.796317 
+L 180.519841 453.796317 
+L 180.519841 435.995535 
+L 162.25 435.995535 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_36">
-    <path d="M 162.28125 431.795002 
-L 180.549107 431.795002 
-L 180.549107 413.981296 
-L 162.28125 413.981296 
+    <path d="M 162.25 431.545339 
+L 180.519841 431.545339 
+L 180.519841 413.744557 
+L 162.25 413.744557 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_37">
-    <path d="M 162.28125 409.527869 
-L 180.549107 409.527869 
-L 180.549107 391.714163 
-L 162.28125 391.714163 
+    <path d="M 162.25 409.294361 
+L 180.519841 409.294361 
+L 180.519841 391.493579 
+L 162.25 391.493579 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_38">
-    <path d="M 162.28125 387.260736 
-L 180.549107 387.260736 
-L 180.549107 369.44703 
-L 162.28125 369.44703 
+    <path d="M 162.25 387.043383 
+L 180.519841 387.043383 
+L 180.519841 369.242601 
+L 162.25 369.242601 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_39">
-    <path d="M 162.28125 364.993604 
-L 180.549107 364.993604 
-L 180.549107 347.179897 
-L 162.28125 347.179897 
+    <path d="M 162.25 364.792405 
+L 180.519841 364.792405 
+L 180.519841 346.991623 
+L 162.25 346.991623 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_40">
-    <path d="M 162.28125 342.726471 
-L 180.549107 342.726471 
-L 180.549107 324.912765 
-L 162.28125 324.912765 
+    <path d="M 162.25 342.541427 
+L 180.519841 342.541427 
+L 180.519841 324.740645 
+L 162.25 324.740645 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_41">
-    <path d="M 162.28125 320.459338 
-L 180.549107 320.459338 
-L 180.549107 302.645632 
-L 162.28125 302.645632 
+    <path d="M 162.25 320.290449 
+L 180.519841 320.290449 
+L 180.519841 302.489667 
+L 162.25 302.489667 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_42">
-    <path d="M 162.28125 298.192205 
-L 180.549107 298.192205 
-L 180.549107 280.378499 
-L 162.28125 280.378499 
+    <path d="M 162.25 298.039471 
+L 180.519841 298.039471 
+L 180.519841 280.238689 
+L 162.25 280.238689 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_43">
-    <path d="M 162.28125 275.925072 
-L 180.549107 275.925072 
-L 180.549107 258.111366 
-L 162.28125 258.111366 
+    <path d="M 162.25 275.788493 
+L 180.519841 275.788493 
+L 180.519841 257.987711 
+L 162.25 257.987711 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_44">
-    <path d="M 162.28125 253.65794 
-L 180.549107 253.65794 
-L 180.549107 235.844233 
-L 162.28125 235.844233 
+    <path d="M 162.25 253.537515 
+L 180.519841 253.537515 
+L 180.519841 235.736732 
+L 162.25 235.736732 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_45">
-    <path d="M 162.28125 231.390807 
-L 180.549107 231.390807 
-L 180.549107 213.577101 
-L 162.28125 213.577101 
+    <path d="M 162.25 231.286537 
+L 180.519841 231.286537 
+L 180.519841 213.485754 
+L 162.25 213.485754 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_46">
-    <path d="M 162.28125 209.123674 
-L 180.549107 209.123674 
-L 180.549107 191.309968 
-L 162.28125 191.309968 
+    <path d="M 162.25 209.035559 
+L 180.519841 209.035559 
+L 180.519841 191.234776 
+L 162.25 191.234776 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_47">
-    <path d="M 162.28125 186.856541 
-L 180.549107 186.856541 
-L 180.549107 169.042835 
-L 162.28125 169.042835 
+    <path d="M 162.25 186.784581 
+L 180.519841 186.784581 
+L 180.519841 168.983798 
+L 162.25 168.983798 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_48">
-    <path d="M 162.28125 164.589409 
-L 180.549107 164.589409 
-L 180.549107 146.775702 
-L 162.28125 146.775702 
+    <path d="M 162.25 164.533603 
+L 180.519841 164.533603 
+L 180.519841 146.73282 
+L 162.25 146.73282 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_49">
-    <path d="M 162.28125 142.322276 
-L 180.549107 142.322276 
-L 180.549107 124.50857 
-L 162.28125 124.50857 
+    <path d="M 162.25 142.282625 
+L 180.519841 142.282625 
+L 180.519841 124.481842 
+L 162.25 124.481842 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_50">
-    <path d="M 162.28125 120.055143 
-L 180.549107 120.055143 
-L 180.549107 102.241437 
-L 162.28125 102.241437 
+    <path d="M 162.25 120.031647 
+L 180.519841 120.031647 
+L 180.519841 102.230864 
+L 162.25 102.230864 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_51">
-    <path d="M 162.28125 97.78801 
-L 180.549107 97.78801 
-L 180.549107 79.974304 
-L 162.28125 79.974304 
+    <path d="M 162.25 97.780669 
+L 180.519841 97.780669 
+L 180.519841 79.979886 
+L 162.25 79.979886 
 z
-" clip-path="url(#p1bf23c9dbe)" style="fill: #1f77b4"/>
+" clip-path="url(#p51e33f7ff7)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -438,12 +438,12 @@ L 0 3.5
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m4c99cd72f3" x="162.28125" y="1220.942188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="162.25" y="1220.12" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
       <!-- 0 -->
-      <g transform="translate(159.500781 1235.115625)scale(0.1 -0.1)">
+      <g transform="translate(159.469531 1234.293437) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-30" d="M 1731 4475 
 Q 2600 4475 2988 3759 
@@ -474,12 +474,12 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="198.451607" y="1220.942188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="198.424286" y="1220.12" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
       <!-- 2 -->
-      <g transform="translate(195.671138 1235.115625)scale(0.1 -0.1)">
+      <g transform="translate(195.643817 1234.293437) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-32" d="M 200 0 
 Q 231 578 439 1006 
@@ -514,12 +514,12 @@ z
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="234.621964" y="1220.942188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="234.598571" y="1220.12" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
       <!-- 4 -->
-      <g transform="translate(231.841496 1235.115625)scale(0.1 -0.1)">
+      <g transform="translate(231.818103 1234.293437) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-34" d="M 2116 1584 
 L 2116 3613 
@@ -548,12 +548,12 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="270.792321" y="1220.942188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="270.772857" y="1220.12" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
       <!-- 6 -->
-      <g transform="translate(268.011853 1235.115625)scale(0.1 -0.1)">
+      <g transform="translate(267.992388 1234.293437) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-36" d="M 1872 4494 
 Q 2622 4494 2917 4105 
@@ -593,12 +593,12 @@ z
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="306.962679" y="1220.942188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="306.947143" y="1220.12" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
       <!-- 8 -->
-      <g transform="translate(304.18221 1235.115625)scale(0.1 -0.1)">
+      <g transform="translate(304.166674 1234.293437) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-38" d="M 1741 2600 
 Q 2113 2600 2322 2808 
@@ -647,12 +647,12 @@ z
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="343.133036" y="1220.942188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="343.121429" y="1220.12" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
       <!-- 10 -->
-      <g transform="translate(337.572098 1235.115625)scale(0.1 -0.1)">
+      <g transform="translate(337.560491 1234.293437) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-31" d="M 613 3169 
 L 613 3600 
@@ -674,12 +674,12 @@ z
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="379.303393" y="1220.942188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="379.295714" y="1220.12" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
       <!-- 12 -->
-      <g transform="translate(373.742455 1235.115625)scale(0.1 -0.1)">
+      <g transform="translate(373.734777 1234.293437) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-31"/>
        <use xlink:href="#Helvetica-32" x="55.615234"/>
       </g>
@@ -688,12 +688,12 @@ z
     <g id="xtick_8">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="415.47375" y="1220.942188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="415.47" y="1220.12" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
       <!-- 14 -->
-      <g transform="translate(409.912812 1235.115625)scale(0.1 -0.1)">
+      <g transform="translate(409.909062 1234.293437) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-31"/>
        <use xlink:href="#Helvetica-34" x="55.615234"/>
       </g>
@@ -709,12 +709,12 @@ L -3.5 0
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="1157.70353" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="1156.927222" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
       <!-- Princeton University -->
-      <g transform="translate(66.364062 1161.290249)scale(0.1 -0.1)">
+      <g transform="translate(66.332812 1160.513941) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-50" d="M 547 4591 
 L 2613 4591 
@@ -1009,12 +1009,12 @@ z
     <g id="ytick_2">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="1135.436398" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="1134.676244" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
       <!-- University of Ilinois -->
-      <g transform="translate(71.925 1134.317648)scale(0.1 -0.1)">
+      <g transform="translate(71.89375 1133.557494) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-66" d="M 553 3856 
 Q 566 4206 675 4369 
@@ -1076,7 +1076,7 @@ z
        <use xlink:href="#Helvetica-73" x="783.59375"/>
       </g>
       <!-- at Urbana-Champaign -->
-      <g transform="translate(56.9 1145.303898)scale(0.1 -0.1)">
+      <g transform="translate(56.86875 1144.543744) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-61" d="M 844 891 
 Q 844 647 1022 506 
@@ -1318,12 +1318,12 @@ z
     <g id="ytick_3">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="1113.169265" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="1112.425266" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
       <!-- Harvard University -->
-      <g transform="translate(73.04375 1116.767702)scale(0.1 -0.1)">
+      <g transform="translate(73.0125 1116.023704) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-48" d="M 503 4591 
 L 1131 4591 
@@ -1391,12 +1391,12 @@ z
     <g id="ytick_4">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="1090.902132" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="1090.174288" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
       <!-- University of Michigan-Ann -->
-      <g transform="translate(36.351562 1089.846663)scale(0.1 -0.1)">
+      <g transform="translate(36.320312 1089.11882) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-4d" d="M 472 4591 
 L 1363 4591 
@@ -1464,7 +1464,7 @@ z
        <use xlink:href="#Helvetica-6e" x="1133.740234"/>
       </g>
       <!-- Arbor -->
-      <g transform="translate(130.829688 1100.667288)scale(0.1 -0.1)">
+      <g transform="translate(130.798438 1099.939445) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-41"/>
        <use xlink:href="#Helvetica-72" x="66.699219"/>
        <use xlink:href="#Helvetica-62" x="100"/>
@@ -1476,302 +1476,12 @@ z
     <g id="ytick_5">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="1068.634999" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="1067.92331" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
-      <!-- University of Wisconsin-Madison -->
-      <g transform="translate(10.8 1072.272499)scale(0.1 -0.1)">
-       <defs>
-        <path id="Helvetica-57" d="M 791 4591 
-L 1656 856 
-L 2694 4591 
-L 3369 4591 
-L 4406 856 
-L 5272 4591 
-L 5953 4591 
-L 4747 0 
-L 4094 0 
-L 3034 3806 
-L 1969 0 
-L 1316 0 
-L 116 4591 
-L 791 4591 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-57" x="577.929688"/>
-       <use xlink:href="#Helvetica-69" x="672.314453"/>
-       <use xlink:href="#Helvetica-73" x="694.53125"/>
-       <use xlink:href="#Helvetica-63" x="744.53125"/>
-       <use xlink:href="#Helvetica-6f" x="794.53125"/>
-       <use xlink:href="#Helvetica-6e" x="850.146484"/>
-       <use xlink:href="#Helvetica-73" x="905.761719"/>
-       <use xlink:href="#Helvetica-69" x="955.761719"/>
-       <use xlink:href="#Helvetica-6e" x="977.978516"/>
-       <use xlink:href="#Helvetica-2d" x="1033.59375"/>
-       <use xlink:href="#Helvetica-4d" x="1066.894531"/>
-       <use xlink:href="#Helvetica-61" x="1150.195312"/>
-       <use xlink:href="#Helvetica-64" x="1205.810547"/>
-       <use xlink:href="#Helvetica-69" x="1261.425781"/>
-       <use xlink:href="#Helvetica-73" x="1283.642578"/>
-       <use xlink:href="#Helvetica-6f" x="1333.642578"/>
-       <use xlink:href="#Helvetica-6e" x="1389.257812"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_6">
-     <g id="line2d_14">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="1046.367867" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_14">
-      <!-- Northwestern University -->
-      <g transform="translate(49.14375 1049.966304)scale(0.1 -0.1)">
-       <defs>
-        <path id="Helvetica-4e" d="M 488 4591 
-L 1222 4591 
-L 3541 872 
-L 3541 4591 
-L 4131 4591 
-L 4131 0 
-L 3434 0 
-L 1081 3716 
-L 1081 0 
-L 488 0 
-L 488 4591 
-z
-M 2269 4591 
-L 2269 4591 
-z
-" transform="scale(0.015625)"/>
-        <path id="Helvetica-77" d="M 672 3347 
-L 1316 709 
-L 1969 3347 
-L 2600 3347 
-L 3256 725 
-L 3941 3347 
-L 4503 3347 
-L 3531 0 
-L 2947 0 
-L 2266 2591 
-L 1606 0 
-L 1022 0 
-L 56 3347 
-L 672 3347 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#Helvetica-4e"/>
-       <use xlink:href="#Helvetica-6f" x="72.216797"/>
-       <use xlink:href="#Helvetica-72" x="127.832031"/>
-       <use xlink:href="#Helvetica-74" x="161.132812"/>
-       <use xlink:href="#Helvetica-68" x="188.916016"/>
-       <use xlink:href="#Helvetica-77" x="244.53125"/>
-       <use xlink:href="#Helvetica-65" x="316.748047"/>
-       <use xlink:href="#Helvetica-73" x="372.363281"/>
-       <use xlink:href="#Helvetica-74" x="422.363281"/>
-       <use xlink:href="#Helvetica-65" x="450.146484"/>
-       <use xlink:href="#Helvetica-72" x="505.761719"/>
-       <use xlink:href="#Helvetica-6e" x="539.0625"/>
-       <use xlink:href="#Helvetica-20" x="594.677734"/>
-       <use xlink:href="#Helvetica-55" x="622.460938"/>
-       <use xlink:href="#Helvetica-6e" x="694.677734"/>
-       <use xlink:href="#Helvetica-69" x="750.292969"/>
-       <use xlink:href="#Helvetica-76" x="772.509766"/>
-       <use xlink:href="#Helvetica-65" x="822.509766"/>
-       <use xlink:href="#Helvetica-72" x="878.125"/>
-       <use xlink:href="#Helvetica-73" x="911.425781"/>
-       <use xlink:href="#Helvetica-69" x="961.425781"/>
-       <use xlink:href="#Helvetica-74" x="983.642578"/>
-       <use xlink:href="#Helvetica-79" x="1011.425781"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_7">
-     <g id="line2d_15">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="1024.100734" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_15">
-      <!-- University of North -->
-      <g transform="translate(73.039062 1022.981984)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-4e" x="577.929688"/>
-       <use xlink:href="#Helvetica-6f" x="650.146484"/>
-       <use xlink:href="#Helvetica-72" x="705.761719"/>
-       <use xlink:href="#Helvetica-74" x="739.0625"/>
-       <use xlink:href="#Helvetica-68" x="766.845703"/>
-      </g>
-      <!-- Carolina at Chapel Hill -->
-      <g transform="translate(55.79375 1033.968234)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-43"/>
-       <use xlink:href="#Helvetica-61" x="72.216797"/>
-       <use xlink:href="#Helvetica-72" x="127.832031"/>
-       <use xlink:href="#Helvetica-6f" x="161.132812"/>
-       <use xlink:href="#Helvetica-6c" x="216.748047"/>
-       <use xlink:href="#Helvetica-69" x="238.964844"/>
-       <use xlink:href="#Helvetica-6e" x="261.181641"/>
-       <use xlink:href="#Helvetica-61" x="316.796875"/>
-       <use xlink:href="#Helvetica-20" x="372.412109"/>
-       <use xlink:href="#Helvetica-61" x="400.195312"/>
-       <use xlink:href="#Helvetica-74" x="455.810547"/>
-       <use xlink:href="#Helvetica-20" x="483.59375"/>
-       <use xlink:href="#Helvetica-43" x="511.376953"/>
-       <use xlink:href="#Helvetica-68" x="583.59375"/>
-       <use xlink:href="#Helvetica-61" x="639.208984"/>
-       <use xlink:href="#Helvetica-70" x="694.824219"/>
-       <use xlink:href="#Helvetica-65" x="750.439453"/>
-       <use xlink:href="#Helvetica-6c" x="806.054688"/>
-       <use xlink:href="#Helvetica-20" x="828.271484"/>
-       <use xlink:href="#Helvetica-48" x="856.054688"/>
-       <use xlink:href="#Helvetica-69" x="928.271484"/>
-       <use xlink:href="#Helvetica-6c" x="950.488281"/>
-       <use xlink:href="#Helvetica-6c" x="972.705078"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_8">
-     <g id="line2d_16">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="1001.833601" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_16">
-      <!-- University of Colorado -->
-      <g transform="translate(56.9125 1000.859382)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-43" x="577.929688"/>
-       <use xlink:href="#Helvetica-6f" x="650.146484"/>
-       <use xlink:href="#Helvetica-6c" x="705.761719"/>
-       <use xlink:href="#Helvetica-6f" x="727.978516"/>
-       <use xlink:href="#Helvetica-72" x="783.59375"/>
-       <use xlink:href="#Helvetica-61" x="816.894531"/>
-       <use xlink:href="#Helvetica-64" x="872.509766"/>
-       <use xlink:href="#Helvetica-6f" x="928.125"/>
-      </g>
-      <!-- at Boulder -->
-      <g transform="translate(109.698437 1011.611257)scale(0.1 -0.1)">
-       <defs>
-        <path id="Helvetica-42" d="M 2213 2650 
-Q 2606 2650 2825 2759 
-Q 3169 2931 3169 3378 
-Q 3169 3828 2803 3984 
-Q 2597 4072 2191 4072 
-L 1081 4072 
-L 1081 2650 
-L 2213 2650 
-z
-M 2422 531 
-Q 2994 531 3238 863 
-Q 3391 1072 3391 1369 
-Q 3391 1869 2944 2050 
-Q 2706 2147 2316 2147 
-L 1081 2147 
-L 1081 531 
-L 2422 531 
-z
-M 472 4591 
-L 2444 4591 
-Q 3250 4591 3591 4109 
-Q 3791 3825 3791 3453 
-Q 3791 3019 3544 2741 
-Q 3416 2594 3175 2472 
-Q 3528 2338 3703 2169 
-Q 4013 1869 4013 1341 
-Q 4013 897 3734 538 
-Q 3319 0 2413 0 
-L 472 0 
-L 472 4591 
-z
-" transform="scale(0.015625)"/>
-        <path id="Helvetica-75" d="M 975 3347 
-L 975 1125 
-Q 975 869 1056 706 
-Q 1206 406 1616 406 
-Q 2203 406 2416 931 
-Q 2531 1213 2531 1703 
-L 2531 3347 
-L 3094 3347 
-L 3094 0 
-L 2563 0 
-L 2569 494 
-Q 2459 303 2297 172 
-Q 1975 -91 1516 -91 
-Q 800 -91 541 388 
-Q 400 644 400 1072 
-L 400 3347 
-L 975 3347 
-z
-M 1747 3428 
-L 1747 3428 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#Helvetica-61"/>
-       <use xlink:href="#Helvetica-74" x="55.615234"/>
-       <use xlink:href="#Helvetica-20" x="83.398438"/>
-       <use xlink:href="#Helvetica-42" x="111.181641"/>
-       <use xlink:href="#Helvetica-6f" x="177.880859"/>
-       <use xlink:href="#Helvetica-75" x="233.496094"/>
-       <use xlink:href="#Helvetica-6c" x="289.111328"/>
-       <use xlink:href="#Helvetica-64" x="311.328125"/>
-       <use xlink:href="#Helvetica-65" x="366.943359"/>
-       <use xlink:href="#Helvetica-72" x="422.558594"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_9">
-     <g id="line2d_17">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="979.566468" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_17">
       <!-- Arizona State University -->
-      <g transform="translate(48.576562 983.250843)scale(0.1 -0.1)">
+      <g transform="translate(48.545312 1071.607685) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-7a" d="M 163 444 
 L 2147 2844 
@@ -1851,43 +1561,345 @@ z
       </g>
      </g>
     </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="1045.672332" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- University of Wisconsin-Madison -->
+      <g transform="translate(10.76875 1049.309832) scale(0.1 -0.1)">
+       <defs>
+        <path id="Helvetica-57" d="M 791 4591 
+L 1656 856 
+L 2694 4591 
+L 3369 4591 
+L 4406 856 
+L 5272 4591 
+L 5953 4591 
+L 4747 0 
+L 4094 0 
+L 3034 3806 
+L 1969 0 
+L 1316 0 
+L 116 4591 
+L 791 4591 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-57" x="577.929688"/>
+       <use xlink:href="#Helvetica-69" x="672.314453"/>
+       <use xlink:href="#Helvetica-73" x="694.53125"/>
+       <use xlink:href="#Helvetica-63" x="744.53125"/>
+       <use xlink:href="#Helvetica-6f" x="794.53125"/>
+       <use xlink:href="#Helvetica-6e" x="850.146484"/>
+       <use xlink:href="#Helvetica-73" x="905.761719"/>
+       <use xlink:href="#Helvetica-69" x="955.761719"/>
+       <use xlink:href="#Helvetica-6e" x="977.978516"/>
+       <use xlink:href="#Helvetica-2d" x="1033.59375"/>
+       <use xlink:href="#Helvetica-4d" x="1066.894531"/>
+       <use xlink:href="#Helvetica-61" x="1150.195312"/>
+       <use xlink:href="#Helvetica-64" x="1205.810547"/>
+       <use xlink:href="#Helvetica-69" x="1261.425781"/>
+       <use xlink:href="#Helvetica-73" x="1283.642578"/>
+       <use xlink:href="#Helvetica-6f" x="1333.642578"/>
+       <use xlink:href="#Helvetica-6e" x="1389.257812"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="1023.421354" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- University of Colorado -->
+      <g transform="translate(56.88125 1022.447136) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-43" x="577.929688"/>
+       <use xlink:href="#Helvetica-6f" x="650.146484"/>
+       <use xlink:href="#Helvetica-6c" x="705.761719"/>
+       <use xlink:href="#Helvetica-6f" x="727.978516"/>
+       <use xlink:href="#Helvetica-72" x="783.59375"/>
+       <use xlink:href="#Helvetica-61" x="816.894531"/>
+       <use xlink:href="#Helvetica-64" x="872.509766"/>
+       <use xlink:href="#Helvetica-6f" x="928.125"/>
+      </g>
+      <!-- at Boulder -->
+      <g transform="translate(109.667187 1033.199011) scale(0.1 -0.1)">
+       <defs>
+        <path id="Helvetica-42" d="M 2213 2650 
+Q 2606 2650 2825 2759 
+Q 3169 2931 3169 3378 
+Q 3169 3828 2803 3984 
+Q 2597 4072 2191 4072 
+L 1081 4072 
+L 1081 2650 
+L 2213 2650 
+z
+M 2422 531 
+Q 2994 531 3238 863 
+Q 3391 1072 3391 1369 
+Q 3391 1869 2944 2050 
+Q 2706 2147 2316 2147 
+L 1081 2147 
+L 1081 531 
+L 2422 531 
+z
+M 472 4591 
+L 2444 4591 
+Q 3250 4591 3591 4109 
+Q 3791 3825 3791 3453 
+Q 3791 3019 3544 2741 
+Q 3416 2594 3175 2472 
+Q 3528 2338 3703 2169 
+Q 4013 1869 4013 1341 
+Q 4013 897 3734 538 
+Q 3319 0 2413 0 
+L 472 0 
+L 472 4591 
+z
+" transform="scale(0.015625)"/>
+        <path id="Helvetica-75" d="M 975 3347 
+L 975 1125 
+Q 975 869 1056 706 
+Q 1206 406 1616 406 
+Q 2203 406 2416 931 
+Q 2531 1213 2531 1703 
+L 2531 3347 
+L 3094 3347 
+L 3094 0 
+L 2563 0 
+L 2569 494 
+Q 2459 303 2297 172 
+Q 1975 -91 1516 -91 
+Q 800 -91 541 388 
+Q 400 644 400 1072 
+L 400 3347 
+L 975 3347 
+z
+M 1747 3428 
+L 1747 3428 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Helvetica-61"/>
+       <use xlink:href="#Helvetica-74" x="55.615234"/>
+       <use xlink:href="#Helvetica-20" x="83.398438"/>
+       <use xlink:href="#Helvetica-42" x="111.181641"/>
+       <use xlink:href="#Helvetica-6f" x="177.880859"/>
+       <use xlink:href="#Helvetica-75" x="233.496094"/>
+       <use xlink:href="#Helvetica-6c" x="289.111328"/>
+       <use xlink:href="#Helvetica-64" x="311.328125"/>
+       <use xlink:href="#Helvetica-65" x="366.943359"/>
+       <use xlink:href="#Helvetica-72" x="422.558594"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="1001.170376" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- University of North -->
+      <g transform="translate(73.007812 1000.051626) scale(0.1 -0.1)">
+       <defs>
+        <path id="Helvetica-4e" d="M 488 4591 
+L 1222 4591 
+L 3541 872 
+L 3541 4591 
+L 4131 4591 
+L 4131 0 
+L 3434 0 
+L 1081 3716 
+L 1081 0 
+L 488 0 
+L 488 4591 
+z
+M 2269 4591 
+L 2269 4591 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-4e" x="577.929688"/>
+       <use xlink:href="#Helvetica-6f" x="650.146484"/>
+       <use xlink:href="#Helvetica-72" x="705.761719"/>
+       <use xlink:href="#Helvetica-74" x="739.0625"/>
+       <use xlink:href="#Helvetica-68" x="766.845703"/>
+      </g>
+      <!-- Carolina at Chapel Hill -->
+      <g transform="translate(55.7625 1011.037876) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-43"/>
+       <use xlink:href="#Helvetica-61" x="72.216797"/>
+       <use xlink:href="#Helvetica-72" x="127.832031"/>
+       <use xlink:href="#Helvetica-6f" x="161.132812"/>
+       <use xlink:href="#Helvetica-6c" x="216.748047"/>
+       <use xlink:href="#Helvetica-69" x="238.964844"/>
+       <use xlink:href="#Helvetica-6e" x="261.181641"/>
+       <use xlink:href="#Helvetica-61" x="316.796875"/>
+       <use xlink:href="#Helvetica-20" x="372.412109"/>
+       <use xlink:href="#Helvetica-61" x="400.195312"/>
+       <use xlink:href="#Helvetica-74" x="455.810547"/>
+       <use xlink:href="#Helvetica-20" x="483.59375"/>
+       <use xlink:href="#Helvetica-43" x="511.376953"/>
+       <use xlink:href="#Helvetica-68" x="583.59375"/>
+       <use xlink:href="#Helvetica-61" x="639.208984"/>
+       <use xlink:href="#Helvetica-70" x="694.824219"/>
+       <use xlink:href="#Helvetica-65" x="750.439453"/>
+       <use xlink:href="#Helvetica-6c" x="806.054688"/>
+       <use xlink:href="#Helvetica-20" x="828.271484"/>
+       <use xlink:href="#Helvetica-48" x="856.054688"/>
+       <use xlink:href="#Helvetica-69" x="928.271484"/>
+       <use xlink:href="#Helvetica-6c" x="950.488281"/>
+       <use xlink:href="#Helvetica-6c" x="972.705078"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="978.919398" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- Northwestern University -->
+      <g transform="translate(49.1125 982.517836) scale(0.1 -0.1)">
+       <defs>
+        <path id="Helvetica-77" d="M 672 3347 
+L 1316 709 
+L 1969 3347 
+L 2600 3347 
+L 3256 725 
+L 3941 3347 
+L 4503 3347 
+L 3531 0 
+L 2947 0 
+L 2266 2591 
+L 1606 0 
+L 1022 0 
+L 56 3347 
+L 672 3347 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Helvetica-4e"/>
+       <use xlink:href="#Helvetica-6f" x="72.216797"/>
+       <use xlink:href="#Helvetica-72" x="127.832031"/>
+       <use xlink:href="#Helvetica-74" x="161.132812"/>
+       <use xlink:href="#Helvetica-68" x="188.916016"/>
+       <use xlink:href="#Helvetica-77" x="244.53125"/>
+       <use xlink:href="#Helvetica-65" x="316.748047"/>
+       <use xlink:href="#Helvetica-73" x="372.363281"/>
+       <use xlink:href="#Helvetica-74" x="422.363281"/>
+       <use xlink:href="#Helvetica-65" x="450.146484"/>
+       <use xlink:href="#Helvetica-72" x="505.761719"/>
+       <use xlink:href="#Helvetica-6e" x="539.0625"/>
+       <use xlink:href="#Helvetica-20" x="594.677734"/>
+       <use xlink:href="#Helvetica-55" x="622.460938"/>
+       <use xlink:href="#Helvetica-6e" x="694.677734"/>
+       <use xlink:href="#Helvetica-69" x="750.292969"/>
+       <use xlink:href="#Helvetica-76" x="772.509766"/>
+       <use xlink:href="#Helvetica-65" x="822.509766"/>
+       <use xlink:href="#Helvetica-72" x="878.125"/>
+       <use xlink:href="#Helvetica-73" x="911.425781"/>
+       <use xlink:href="#Helvetica-69" x="961.425781"/>
+       <use xlink:href="#Helvetica-74" x="983.642578"/>
+       <use xlink:href="#Helvetica-79" x="1011.425781"/>
+      </g>
+     </g>
+    </g>
     <g id="ytick_10">
      <g id="line2d_18">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="957.299335" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="956.66842" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_18">
-      <!-- Brown University -->
-      <g transform="translate(80.264062 960.886054)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-42"/>
-       <use xlink:href="#Helvetica-72" x="66.699219"/>
-       <use xlink:href="#Helvetica-6f" x="100"/>
-       <use xlink:href="#Helvetica-77" x="155.615234"/>
-       <use xlink:href="#Helvetica-6e" x="227.832031"/>
-       <use xlink:href="#Helvetica-20" x="283.447266"/>
-       <use xlink:href="#Helvetica-55" x="311.230469"/>
-       <use xlink:href="#Helvetica-6e" x="383.447266"/>
-       <use xlink:href="#Helvetica-69" x="439.0625"/>
-       <use xlink:href="#Helvetica-76" x="461.279297"/>
-       <use xlink:href="#Helvetica-65" x="511.279297"/>
-       <use xlink:href="#Helvetica-72" x="566.894531"/>
-       <use xlink:href="#Helvetica-73" x="600.195312"/>
-       <use xlink:href="#Helvetica-69" x="650.195312"/>
-       <use xlink:href="#Helvetica-74" x="672.412109"/>
-       <use xlink:href="#Helvetica-79" x="700.195312"/>
+      <!-- Carnegie Mellon University -->
+      <g transform="translate(35.764062 960.352795) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-43"/>
+       <use xlink:href="#Helvetica-61" x="72.216797"/>
+       <use xlink:href="#Helvetica-72" x="127.832031"/>
+       <use xlink:href="#Helvetica-6e" x="161.132812"/>
+       <use xlink:href="#Helvetica-65" x="216.748047"/>
+       <use xlink:href="#Helvetica-67" x="272.363281"/>
+       <use xlink:href="#Helvetica-69" x="327.978516"/>
+       <use xlink:href="#Helvetica-65" x="350.195312"/>
+       <use xlink:href="#Helvetica-20" x="405.810547"/>
+       <use xlink:href="#Helvetica-4d" x="433.59375"/>
+       <use xlink:href="#Helvetica-65" x="516.894531"/>
+       <use xlink:href="#Helvetica-6c" x="572.509766"/>
+       <use xlink:href="#Helvetica-6c" x="594.726562"/>
+       <use xlink:href="#Helvetica-6f" x="616.943359"/>
+       <use xlink:href="#Helvetica-6e" x="672.558594"/>
+       <use xlink:href="#Helvetica-20" x="728.173828"/>
+       <use xlink:href="#Helvetica-55" x="755.957031"/>
+       <use xlink:href="#Helvetica-6e" x="828.173828"/>
+       <use xlink:href="#Helvetica-69" x="883.789062"/>
+       <use xlink:href="#Helvetica-76" x="906.005859"/>
+       <use xlink:href="#Helvetica-65" x="956.005859"/>
+       <use xlink:href="#Helvetica-72" x="1011.621094"/>
+       <use xlink:href="#Helvetica-73" x="1044.921875"/>
+       <use xlink:href="#Helvetica-69" x="1094.921875"/>
+       <use xlink:href="#Helvetica-74" x="1117.138672"/>
+       <use xlink:href="#Helvetica-79" x="1144.921875"/>
       </g>
      </g>
     </g>
     <g id="ytick_11">
      <g id="line2d_19">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="935.032203" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="934.417442" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_19">
       <!-- University of Vermont -->
-      <g transform="translate(59.7 938.669703)scale(0.1 -0.1)">
+      <g transform="translate(59.66875 938.054942) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-56" d="M 850 4591 
 L 2169 681 
@@ -1927,12 +1939,12 @@ z
     <g id="ytick_12">
      <g id="line2d_20">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="912.76507" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="912.166464" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_20">
       <!-- Ohio State University, -->
-      <g transform="translate(58.58125 911.790851)scale(0.1 -0.1)">
+      <g transform="translate(58.55 911.192245) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-4f" d="M 2469 4716 
 Q 3684 4716 4269 3934 
@@ -1997,7 +2009,7 @@ z
        <use xlink:href="#Helvetica-2c" x="939.257812"/>
       </g>
       <!-- Columbus -->
-      <g transform="translate(110.264062 922.542726)scale(0.1 -0.1)">
+      <g transform="translate(110.232812 921.94412) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-43"/>
        <use xlink:href="#Helvetica-6f" x="72.216797"/>
        <use xlink:href="#Helvetica-6c" x="127.832031"/>
@@ -2012,12 +2024,40 @@ z
     <g id="ytick_13">
      <g id="line2d_21">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="890.497937" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="889.915486" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_21">
-      <!-- University of Washington -->
-      <g transform="translate(44.685937 894.135437)scale(0.1 -0.1)">
+      <!-- Brown University -->
+      <g transform="translate(80.232812 893.502205) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-42"/>
+       <use xlink:href="#Helvetica-72" x="66.699219"/>
+       <use xlink:href="#Helvetica-6f" x="100"/>
+       <use xlink:href="#Helvetica-77" x="155.615234"/>
+       <use xlink:href="#Helvetica-6e" x="227.832031"/>
+       <use xlink:href="#Helvetica-20" x="283.447266"/>
+       <use xlink:href="#Helvetica-55" x="311.230469"/>
+       <use xlink:href="#Helvetica-6e" x="383.447266"/>
+       <use xlink:href="#Helvetica-69" x="439.0625"/>
+       <use xlink:href="#Helvetica-76" x="461.279297"/>
+       <use xlink:href="#Helvetica-65" x="511.279297"/>
+       <use xlink:href="#Helvetica-72" x="566.894531"/>
+       <use xlink:href="#Helvetica-73" x="600.195312"/>
+       <use xlink:href="#Helvetica-69" x="650.195312"/>
+       <use xlink:href="#Helvetica-74" x="672.412109"/>
+       <use xlink:href="#Helvetica-79" x="700.195312"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="867.664508" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- University of Virginia, -->
+      <g transform="translate(61.332812 866.609039) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-55"/>
        <use xlink:href="#Helvetica-6e" x="72.216797"/>
        <use xlink:href="#Helvetica-69" x="127.832031"/>
@@ -2032,28 +2072,45 @@ z
        <use xlink:href="#Helvetica-6f" x="466.748047"/>
        <use xlink:href="#Helvetica-66" x="522.363281"/>
        <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-57" x="577.929688"/>
-       <use xlink:href="#Helvetica-61" x="672.314453"/>
-       <use xlink:href="#Helvetica-73" x="727.929688"/>
-       <use xlink:href="#Helvetica-68" x="777.929688"/>
-       <use xlink:href="#Helvetica-69" x="833.544922"/>
-       <use xlink:href="#Helvetica-6e" x="855.761719"/>
-       <use xlink:href="#Helvetica-67" x="911.376953"/>
-       <use xlink:href="#Helvetica-74" x="966.992188"/>
-       <use xlink:href="#Helvetica-6f" x="994.775391"/>
-       <use xlink:href="#Helvetica-6e" x="1050.390625"/>
+       <use xlink:href="#Helvetica-56" x="577.929688"/>
+       <use xlink:href="#Helvetica-69" x="644.628906"/>
+       <use xlink:href="#Helvetica-72" x="666.845703"/>
+       <use xlink:href="#Helvetica-67" x="700.146484"/>
+       <use xlink:href="#Helvetica-69" x="755.761719"/>
+       <use xlink:href="#Helvetica-6e" x="777.978516"/>
+       <use xlink:href="#Helvetica-69" x="833.59375"/>
+       <use xlink:href="#Helvetica-61" x="855.810547"/>
+       <use xlink:href="#Helvetica-2c" x="911.425781"/>
+      </g>
+      <!-- Charlottesville -->
+      <g transform="translate(92.45 877.429664) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-43"/>
+       <use xlink:href="#Helvetica-68" x="72.216797"/>
+       <use xlink:href="#Helvetica-61" x="127.832031"/>
+       <use xlink:href="#Helvetica-72" x="183.447266"/>
+       <use xlink:href="#Helvetica-6c" x="216.748047"/>
+       <use xlink:href="#Helvetica-6f" x="238.964844"/>
+       <use xlink:href="#Helvetica-74" x="294.580078"/>
+       <use xlink:href="#Helvetica-74" x="322.363281"/>
+       <use xlink:href="#Helvetica-65" x="350.146484"/>
+       <use xlink:href="#Helvetica-73" x="405.761719"/>
+       <use xlink:href="#Helvetica-76" x="455.761719"/>
+       <use xlink:href="#Helvetica-69" x="505.761719"/>
+       <use xlink:href="#Helvetica-6c" x="527.978516"/>
+       <use xlink:href="#Helvetica-6c" x="550.195312"/>
+       <use xlink:href="#Helvetica-65" x="572.412109"/>
       </g>
      </g>
     </g>
-    <g id="ytick_14">
-     <g id="line2d_22">
+    <g id="ytick_15">
+     <g id="line2d_23">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="868.230804" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="845.41353" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_22">
+     <g id="text_23">
       <!-- Massachusetts Institute -->
-      <g transform="translate(50.795312 867.137836)scale(0.1 -0.1)">
+      <g transform="translate(50.764062 844.320561) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-4d"/>
        <use xlink:href="#Helvetica-61" x="83.300781"/>
        <use xlink:href="#Helvetica-73" x="138.916016"/>
@@ -2079,7 +2136,7 @@ z
        <use xlink:href="#Helvetica-65" x="989.306641"/>
       </g>
       <!-- of Technology -->
-      <g transform="translate(92.46875 877.952211)scale(0.1 -0.1)">
+      <g transform="translate(92.4375 855.134936) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-54" d="M 3828 4591 
 L 3828 4044 
@@ -2109,15 +2166,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_15">
-     <g id="line2d_23">
+    <g id="ytick_16">
+     <g id="line2d_24">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="845.963672" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="823.162552" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_23">
+     <g id="text_24">
       <!-- University of Alaska-Fairbanks -->
-      <g transform="translate(20.24375 849.601172)scale(0.1 -0.1)">
+      <g transform="translate(20.2125 826.800052) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-6b" d="M 400 4591 
 L 941 4591 
@@ -2181,15 +2238,96 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_16">
-     <g id="line2d_24">
+    <g id="ytick_17">
+     <g id="line2d_25">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="823.696539" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="800.911574" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_24">
+     <g id="text_25">
+      <!-- Purdue University -->
+      <g transform="translate(76.332812 804.510012) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-50"/>
+       <use xlink:href="#Helvetica-75" x="66.699219"/>
+       <use xlink:href="#Helvetica-72" x="122.314453"/>
+       <use xlink:href="#Helvetica-64" x="155.615234"/>
+       <use xlink:href="#Helvetica-75" x="211.230469"/>
+       <use xlink:href="#Helvetica-65" x="266.845703"/>
+       <use xlink:href="#Helvetica-20" x="322.460938"/>
+       <use xlink:href="#Helvetica-55" x="350.244141"/>
+       <use xlink:href="#Helvetica-6e" x="422.460938"/>
+       <use xlink:href="#Helvetica-69" x="478.076172"/>
+       <use xlink:href="#Helvetica-76" x="500.292969"/>
+       <use xlink:href="#Helvetica-65" x="550.292969"/>
+       <use xlink:href="#Helvetica-72" x="605.908203"/>
+       <use xlink:href="#Helvetica-73" x="639.208984"/>
+       <use xlink:href="#Helvetica-69" x="689.208984"/>
+       <use xlink:href="#Helvetica-74" x="711.425781"/>
+       <use xlink:href="#Helvetica-79" x="739.208984"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="778.660596" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- University of Maryland -->
+      <g transform="translate(56.334375 777.541846) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-4d" x="577.929688"/>
+       <use xlink:href="#Helvetica-61" x="661.230469"/>
+       <use xlink:href="#Helvetica-72" x="716.845703"/>
+       <use xlink:href="#Helvetica-79" x="750.146484"/>
+       <use xlink:href="#Helvetica-6c" x="800.146484"/>
+       <use xlink:href="#Helvetica-61" x="822.363281"/>
+       <use xlink:href="#Helvetica-6e" x="877.978516"/>
+       <use xlink:href="#Helvetica-64" x="933.59375"/>
+      </g>
+      <!-- at College Park -->
+      <g transform="translate(86.884375 788.528096) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-61"/>
+       <use xlink:href="#Helvetica-74" x="55.615234"/>
+       <use xlink:href="#Helvetica-20" x="83.398438"/>
+       <use xlink:href="#Helvetica-43" x="111.181641"/>
+       <use xlink:href="#Helvetica-6f" x="183.398438"/>
+       <use xlink:href="#Helvetica-6c" x="239.013672"/>
+       <use xlink:href="#Helvetica-6c" x="261.230469"/>
+       <use xlink:href="#Helvetica-65" x="283.447266"/>
+       <use xlink:href="#Helvetica-67" x="339.0625"/>
+       <use xlink:href="#Helvetica-65" x="394.677734"/>
+       <use xlink:href="#Helvetica-20" x="450.292969"/>
+       <use xlink:href="#Helvetica-50" x="478.076172"/>
+       <use xlink:href="#Helvetica-61" x="544.775391"/>
+       <use xlink:href="#Helvetica-72" x="600.390625"/>
+       <use xlink:href="#Helvetica-6b" x="633.691406"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="756.409618" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
       <!-- University of California, -->
-      <g transform="translate(52.473437 822.72232)scale(0.1 -0.1)">
+      <g transform="translate(52.442187 755.435399) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-55"/>
        <use xlink:href="#Helvetica-6e" x="72.216797"/>
        <use xlink:href="#Helvetica-69" x="127.832031"/>
@@ -2217,7 +2355,7 @@ z
        <use xlink:href="#Helvetica-2c" x="1000.341797"/>
       </g>
       <!-- Los Angeles -->
-      <g transform="translate(100.245312 833.474195)scale(0.1 -0.1)">
+      <g transform="translate(100.214062 766.187274) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-4c" d="M 488 4591 
 L 1109 4591 
@@ -2243,187 +2381,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_17">
-     <g id="line2d_25">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="801.429406" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_25">
-      <!-- Purdue University -->
-      <g transform="translate(76.364062 805.027843)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-50"/>
-       <use xlink:href="#Helvetica-75" x="66.699219"/>
-       <use xlink:href="#Helvetica-72" x="122.314453"/>
-       <use xlink:href="#Helvetica-64" x="155.615234"/>
-       <use xlink:href="#Helvetica-75" x="211.230469"/>
-       <use xlink:href="#Helvetica-65" x="266.845703"/>
-       <use xlink:href="#Helvetica-20" x="322.460938"/>
-       <use xlink:href="#Helvetica-55" x="350.244141"/>
-       <use xlink:href="#Helvetica-6e" x="422.460938"/>
-       <use xlink:href="#Helvetica-69" x="478.076172"/>
-       <use xlink:href="#Helvetica-76" x="500.292969"/>
-       <use xlink:href="#Helvetica-65" x="550.292969"/>
-       <use xlink:href="#Helvetica-72" x="605.908203"/>
-       <use xlink:href="#Helvetica-73" x="639.208984"/>
-       <use xlink:href="#Helvetica-69" x="689.208984"/>
-       <use xlink:href="#Helvetica-74" x="711.425781"/>
-       <use xlink:href="#Helvetica-79" x="739.208984"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_18">
-     <g id="line2d_26">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="779.162273" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_26">
-      <!-- Carnegie Mellon University -->
-      <g transform="translate(35.795312 782.846648)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-43"/>
-       <use xlink:href="#Helvetica-61" x="72.216797"/>
-       <use xlink:href="#Helvetica-72" x="127.832031"/>
-       <use xlink:href="#Helvetica-6e" x="161.132812"/>
-       <use xlink:href="#Helvetica-65" x="216.748047"/>
-       <use xlink:href="#Helvetica-67" x="272.363281"/>
-       <use xlink:href="#Helvetica-69" x="327.978516"/>
-       <use xlink:href="#Helvetica-65" x="350.195312"/>
-       <use xlink:href="#Helvetica-20" x="405.810547"/>
-       <use xlink:href="#Helvetica-4d" x="433.59375"/>
-       <use xlink:href="#Helvetica-65" x="516.894531"/>
-       <use xlink:href="#Helvetica-6c" x="572.509766"/>
-       <use xlink:href="#Helvetica-6c" x="594.726562"/>
-       <use xlink:href="#Helvetica-6f" x="616.943359"/>
-       <use xlink:href="#Helvetica-6e" x="672.558594"/>
-       <use xlink:href="#Helvetica-20" x="728.173828"/>
-       <use xlink:href="#Helvetica-55" x="755.957031"/>
-       <use xlink:href="#Helvetica-6e" x="828.173828"/>
-       <use xlink:href="#Helvetica-69" x="883.789062"/>
-       <use xlink:href="#Helvetica-76" x="906.005859"/>
-       <use xlink:href="#Helvetica-65" x="956.005859"/>
-       <use xlink:href="#Helvetica-72" x="1011.621094"/>
-       <use xlink:href="#Helvetica-73" x="1044.921875"/>
-       <use xlink:href="#Helvetica-69" x="1094.921875"/>
-       <use xlink:href="#Helvetica-74" x="1117.138672"/>
-       <use xlink:href="#Helvetica-79" x="1144.921875"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_19">
-     <g id="line2d_27">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="756.89514" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_27">
-      <!-- University of Virginia, -->
-      <g transform="translate(61.364062 755.839672)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-56" x="577.929688"/>
-       <use xlink:href="#Helvetica-69" x="644.628906"/>
-       <use xlink:href="#Helvetica-72" x="666.845703"/>
-       <use xlink:href="#Helvetica-67" x="700.146484"/>
-       <use xlink:href="#Helvetica-69" x="755.761719"/>
-       <use xlink:href="#Helvetica-6e" x="777.978516"/>
-       <use xlink:href="#Helvetica-69" x="833.59375"/>
-       <use xlink:href="#Helvetica-61" x="855.810547"/>
-       <use xlink:href="#Helvetica-2c" x="911.425781"/>
-      </g>
-      <!-- Charlottesville -->
-      <g transform="translate(92.48125 766.660297)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-43"/>
-       <use xlink:href="#Helvetica-68" x="72.216797"/>
-       <use xlink:href="#Helvetica-61" x="127.832031"/>
-       <use xlink:href="#Helvetica-72" x="183.447266"/>
-       <use xlink:href="#Helvetica-6c" x="216.748047"/>
-       <use xlink:href="#Helvetica-6f" x="238.964844"/>
-       <use xlink:href="#Helvetica-74" x="294.580078"/>
-       <use xlink:href="#Helvetica-74" x="322.363281"/>
-       <use xlink:href="#Helvetica-65" x="350.146484"/>
-       <use xlink:href="#Helvetica-73" x="405.761719"/>
-       <use xlink:href="#Helvetica-76" x="455.761719"/>
-       <use xlink:href="#Helvetica-69" x="505.761719"/>
-       <use xlink:href="#Helvetica-6c" x="527.978516"/>
-       <use xlink:href="#Helvetica-6c" x="550.195312"/>
-       <use xlink:href="#Helvetica-65" x="572.412109"/>
-      </g>
-     </g>
-    </g>
     <g id="ytick_20">
      <g id="line2d_28">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="734.628008" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="734.15864" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_28">
-      <!-- University of Maryland -->
-      <g transform="translate(56.365625 733.509258)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-4d" x="577.929688"/>
-       <use xlink:href="#Helvetica-61" x="661.230469"/>
-       <use xlink:href="#Helvetica-72" x="716.845703"/>
-       <use xlink:href="#Helvetica-79" x="750.146484"/>
-       <use xlink:href="#Helvetica-6c" x="800.146484"/>
-       <use xlink:href="#Helvetica-61" x="822.363281"/>
-       <use xlink:href="#Helvetica-6e" x="877.978516"/>
-       <use xlink:href="#Helvetica-64" x="933.59375"/>
-      </g>
-      <!-- at College Park -->
-      <g transform="translate(86.915625 744.495508)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-61"/>
-       <use xlink:href="#Helvetica-74" x="55.615234"/>
-       <use xlink:href="#Helvetica-20" x="83.398438"/>
-       <use xlink:href="#Helvetica-43" x="111.181641"/>
-       <use xlink:href="#Helvetica-6f" x="183.398438"/>
-       <use xlink:href="#Helvetica-6c" x="239.013672"/>
-       <use xlink:href="#Helvetica-6c" x="261.230469"/>
-       <use xlink:href="#Helvetica-65" x="283.447266"/>
-       <use xlink:href="#Helvetica-67" x="339.0625"/>
-       <use xlink:href="#Helvetica-65" x="394.677734"/>
-       <use xlink:href="#Helvetica-20" x="450.292969"/>
-       <use xlink:href="#Helvetica-50" x="478.076172"/>
-       <use xlink:href="#Helvetica-61" x="544.775391"/>
-       <use xlink:href="#Helvetica-72" x="600.390625"/>
-       <use xlink:href="#Helvetica-6b" x="633.691406"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_21">
-     <g id="line2d_29">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="712.360875" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_29">
-      <!-- University of Wyoming -->
-      <g transform="translate(55.817187 715.998375)scale(0.1 -0.1)">
+      <!-- University of Washington -->
+      <g transform="translate(44.654687 737.79614) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-55"/>
        <use xlink:href="#Helvetica-6e" x="72.216797"/>
        <use xlink:href="#Helvetica-69" x="127.832031"/>
@@ -2439,24 +2405,27 @@ z
        <use xlink:href="#Helvetica-66" x="522.363281"/>
        <use xlink:href="#Helvetica-20" x="550.146484"/>
        <use xlink:href="#Helvetica-57" x="577.929688"/>
-       <use xlink:href="#Helvetica-79" x="672.314453"/>
-       <use xlink:href="#Helvetica-6f" x="722.314453"/>
-       <use xlink:href="#Helvetica-6d" x="777.929688"/>
-       <use xlink:href="#Helvetica-69" x="861.230469"/>
-       <use xlink:href="#Helvetica-6e" x="883.447266"/>
-       <use xlink:href="#Helvetica-67" x="939.0625"/>
+       <use xlink:href="#Helvetica-61" x="672.314453"/>
+       <use xlink:href="#Helvetica-73" x="727.929688"/>
+       <use xlink:href="#Helvetica-68" x="777.929688"/>
+       <use xlink:href="#Helvetica-69" x="833.544922"/>
+       <use xlink:href="#Helvetica-6e" x="855.761719"/>
+       <use xlink:href="#Helvetica-67" x="911.376953"/>
+       <use xlink:href="#Helvetica-74" x="966.992188"/>
+       <use xlink:href="#Helvetica-6f" x="994.775391"/>
+       <use xlink:href="#Helvetica-6e" x="1050.390625"/>
       </g>
      </g>
     </g>
-    <g id="ytick_22">
-     <g id="line2d_30">
+    <g id="ytick_21">
+     <g id="line2d_29">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="690.093742" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="711.907662" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_30">
+     <g id="text_29">
       <!-- Dartmouth College -->
-      <g transform="translate(71.9125 693.778117)scale(0.1 -0.1)">
+      <g transform="translate(71.88125 715.592037) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-44" d="M 2250 531 
 Q 2566 531 2769 597 
@@ -2500,261 +2469,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_23">
-     <g id="line2d_31">
+    <g id="ytick_22">
+     <g id="line2d_30">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="667.826609" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="689.656684" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_31">
-      <!-- Tufts University -->
-      <g transform="translate(86.382812 671.464109)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-54"/>
-       <use xlink:href="#Helvetica-75" x="61.083984"/>
-       <use xlink:href="#Helvetica-66" x="116.699219"/>
-       <use xlink:href="#Helvetica-74" x="144.482422"/>
-       <use xlink:href="#Helvetica-73" x="172.265625"/>
-       <use xlink:href="#Helvetica-20" x="222.265625"/>
-       <use xlink:href="#Helvetica-55" x="250.048828"/>
-       <use xlink:href="#Helvetica-6e" x="322.265625"/>
-       <use xlink:href="#Helvetica-69" x="377.880859"/>
-       <use xlink:href="#Helvetica-76" x="400.097656"/>
-       <use xlink:href="#Helvetica-65" x="450.097656"/>
-       <use xlink:href="#Helvetica-72" x="505.712891"/>
-       <use xlink:href="#Helvetica-73" x="539.013672"/>
-       <use xlink:href="#Helvetica-69" x="589.013672"/>
-       <use xlink:href="#Helvetica-74" x="611.230469"/>
-       <use xlink:href="#Helvetica-79" x="639.013672"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_24">
-     <g id="line2d_32">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="645.559477" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_32">
-      <!-- Oregon State University -->
-      <g transform="translate(49.129687 649.243852)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-4f"/>
-       <use xlink:href="#Helvetica-72" x="77.783203"/>
-       <use xlink:href="#Helvetica-65" x="111.083984"/>
-       <use xlink:href="#Helvetica-67" x="166.699219"/>
-       <use xlink:href="#Helvetica-6f" x="222.314453"/>
-       <use xlink:href="#Helvetica-6e" x="277.929688"/>
-       <use xlink:href="#Helvetica-20" x="333.544922"/>
-       <use xlink:href="#Helvetica-53" x="361.328125"/>
-       <use xlink:href="#Helvetica-74" x="428.027344"/>
-       <use xlink:href="#Helvetica-61" x="455.810547"/>
-       <use xlink:href="#Helvetica-74" x="511.425781"/>
-       <use xlink:href="#Helvetica-65" x="539.208984"/>
-       <use xlink:href="#Helvetica-20" x="594.824219"/>
-       <use xlink:href="#Helvetica-55" x="622.607422"/>
-       <use xlink:href="#Helvetica-6e" x="694.824219"/>
-       <use xlink:href="#Helvetica-69" x="750.439453"/>
-       <use xlink:href="#Helvetica-76" x="772.65625"/>
-       <use xlink:href="#Helvetica-65" x="822.65625"/>
-       <use xlink:href="#Helvetica-72" x="878.271484"/>
-       <use xlink:href="#Helvetica-73" x="911.572266"/>
-       <use xlink:href="#Helvetica-69" x="961.572266"/>
-       <use xlink:href="#Helvetica-74" x="983.789062"/>
-       <use xlink:href="#Helvetica-79" x="1011.572266"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_25">
-     <g id="line2d_33">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="623.292344" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_33">
-      <!-- Otherdo not wish to -->
-      <g transform="translate(68.573437 622.199375)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-4f"/>
-       <use xlink:href="#Helvetica-74" x="77.783203"/>
-       <use xlink:href="#Helvetica-68" x="105.566406"/>
-       <use xlink:href="#Helvetica-65" x="161.181641"/>
-       <use xlink:href="#Helvetica-72" x="216.796875"/>
-       <use xlink:href="#Helvetica-64" x="250.097656"/>
-       <use xlink:href="#Helvetica-6f" x="305.712891"/>
-       <use xlink:href="#Helvetica-20" x="361.328125"/>
-       <use xlink:href="#Helvetica-6e" x="389.111328"/>
-       <use xlink:href="#Helvetica-6f" x="444.726562"/>
-       <use xlink:href="#Helvetica-74" x="500.341797"/>
-       <use xlink:href="#Helvetica-20" x="528.125"/>
-       <use xlink:href="#Helvetica-77" x="555.908203"/>
-       <use xlink:href="#Helvetica-69" x="628.125"/>
-       <use xlink:href="#Helvetica-73" x="650.341797"/>
-       <use xlink:href="#Helvetica-68" x="700.341797"/>
-       <use xlink:href="#Helvetica-20" x="755.957031"/>
-       <use xlink:href="#Helvetica-74" x="783.740234"/>
-       <use xlink:href="#Helvetica-6f" x="811.523438"/>
-      </g>
-      <!-- specify -->
-      <g transform="translate(124.159375 633.01375)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-73"/>
-       <use xlink:href="#Helvetica-70" x="50"/>
-       <use xlink:href="#Helvetica-65" x="105.615234"/>
-       <use xlink:href="#Helvetica-63" x="161.230469"/>
-       <use xlink:href="#Helvetica-69" x="211.230469"/>
-       <use xlink:href="#Helvetica-66" x="233.447266"/>
-       <use xlink:href="#Helvetica-79" x="261.230469"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_26">
-     <g id="line2d_34">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="601.025211" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_34">
-      <!-- Clemson University -->
-      <g transform="translate(69.151562 604.709586)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-43"/>
-       <use xlink:href="#Helvetica-6c" x="72.216797"/>
-       <use xlink:href="#Helvetica-65" x="94.433594"/>
-       <use xlink:href="#Helvetica-6d" x="150.048828"/>
-       <use xlink:href="#Helvetica-73" x="233.349609"/>
-       <use xlink:href="#Helvetica-6f" x="283.349609"/>
-       <use xlink:href="#Helvetica-6e" x="338.964844"/>
-       <use xlink:href="#Helvetica-20" x="394.580078"/>
-       <use xlink:href="#Helvetica-55" x="422.363281"/>
-       <use xlink:href="#Helvetica-6e" x="494.580078"/>
-       <use xlink:href="#Helvetica-69" x="550.195312"/>
-       <use xlink:href="#Helvetica-76" x="572.412109"/>
-       <use xlink:href="#Helvetica-65" x="622.412109"/>
-       <use xlink:href="#Helvetica-72" x="678.027344"/>
-       <use xlink:href="#Helvetica-73" x="711.328125"/>
-       <use xlink:href="#Helvetica-69" x="761.328125"/>
-       <use xlink:href="#Helvetica-74" x="783.544922"/>
-       <use xlink:href="#Helvetica-79" x="811.328125"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_27">
-     <g id="line2d_35">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="578.758078" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_35">
-      <!-- University of Wisconsin -->
-      <g transform="translate(51.925 577.639328)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-57" x="577.929688"/>
-       <use xlink:href="#Helvetica-69" x="672.314453"/>
-       <use xlink:href="#Helvetica-73" x="694.53125"/>
-       <use xlink:href="#Helvetica-63" x="744.53125"/>
-       <use xlink:href="#Helvetica-6f" x="794.53125"/>
-       <use xlink:href="#Helvetica-6e" x="850.146484"/>
-       <use xlink:href="#Helvetica-73" x="905.761719"/>
-       <use xlink:href="#Helvetica-69" x="955.761719"/>
-       <use xlink:href="#Helvetica-6e" x="977.978516"/>
-      </g>
-      <!-- System -->
-      <g transform="translate(121.942188 588.625578)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-53"/>
-       <use xlink:href="#Helvetica-79" x="66.699219"/>
-       <use xlink:href="#Helvetica-73" x="116.699219"/>
-       <use xlink:href="#Helvetica-74" x="166.699219"/>
-       <use xlink:href="#Helvetica-65" x="194.482422"/>
-       <use xlink:href="#Helvetica-6d" x="250.097656"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_28">
-     <g id="line2d_36">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="556.490945" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_36">
-      <!-- University of Notre -->
-      <g transform="translate(73.039062 555.469852)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-4e" x="577.929688"/>
-       <use xlink:href="#Helvetica-6f" x="650.146484"/>
-       <use xlink:href="#Helvetica-74" x="705.761719"/>
-       <use xlink:href="#Helvetica-72" x="733.544922"/>
-       <use xlink:href="#Helvetica-65" x="766.845703"/>
-      </g>
-      <!-- Dame -->
-      <g transform="translate(128.607812 566.221727)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-44"/>
-       <use xlink:href="#Helvetica-61" x="72.216797"/>
-       <use xlink:href="#Helvetica-6d" x="127.832031"/>
-       <use xlink:href="#Helvetica-65" x="211.132812"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_29">
-     <g id="line2d_37">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="534.223813" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_37">
-      <!-- Lehigh Univervsity -->
-      <g transform="translate(73.58125 537.82225)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-4c"/>
-       <use xlink:href="#Helvetica-65" x="55.615234"/>
-       <use xlink:href="#Helvetica-68" x="111.230469"/>
-       <use xlink:href="#Helvetica-69" x="166.845703"/>
-       <use xlink:href="#Helvetica-67" x="189.0625"/>
-       <use xlink:href="#Helvetica-68" x="244.677734"/>
-       <use xlink:href="#Helvetica-20" x="300.292969"/>
-       <use xlink:href="#Helvetica-55" x="328.076172"/>
-       <use xlink:href="#Helvetica-6e" x="400.292969"/>
-       <use xlink:href="#Helvetica-69" x="455.908203"/>
-       <use xlink:href="#Helvetica-76" x="478.125"/>
-       <use xlink:href="#Helvetica-65" x="528.125"/>
-       <use xlink:href="#Helvetica-72" x="583.740234"/>
-       <use xlink:href="#Helvetica-76" x="617.041016"/>
-       <use xlink:href="#Helvetica-73" x="667.041016"/>
-       <use xlink:href="#Helvetica-69" x="717.041016"/>
-       <use xlink:href="#Helvetica-74" x="739.257812"/>
-       <use xlink:href="#Helvetica-79" x="767.041016"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_30">
-     <g id="line2d_38">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="511.95668" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_38">
+     <g id="text_30">
       <!-- Yale University -->
-      <g transform="translate(88.59375 515.543399)scale(0.1 -0.1)">
+      <g transform="translate(88.5625 693.243403) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-59" d="M 131 4591 
 L 856 4591 
@@ -2790,15 +2513,45 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_31">
-     <g id="line2d_39">
+    <g id="ytick_23">
+     <g id="line2d_31">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="489.689547" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="667.405706" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_39">
-      <!-- University of Connecticut -->
-      <g transform="translate(44.685937 493.373922)scale(0.1 -0.1)">
+     <g id="text_31">
+      <!-- Lehigh Univervsity -->
+      <g transform="translate(73.55 671.004144) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-4c"/>
+       <use xlink:href="#Helvetica-65" x="55.615234"/>
+       <use xlink:href="#Helvetica-68" x="111.230469"/>
+       <use xlink:href="#Helvetica-69" x="166.845703"/>
+       <use xlink:href="#Helvetica-67" x="189.0625"/>
+       <use xlink:href="#Helvetica-68" x="244.677734"/>
+       <use xlink:href="#Helvetica-20" x="300.292969"/>
+       <use xlink:href="#Helvetica-55" x="328.076172"/>
+       <use xlink:href="#Helvetica-6e" x="400.292969"/>
+       <use xlink:href="#Helvetica-69" x="455.908203"/>
+       <use xlink:href="#Helvetica-76" x="478.125"/>
+       <use xlink:href="#Helvetica-65" x="528.125"/>
+       <use xlink:href="#Helvetica-72" x="583.740234"/>
+       <use xlink:href="#Helvetica-76" x="617.041016"/>
+       <use xlink:href="#Helvetica-73" x="667.041016"/>
+       <use xlink:href="#Helvetica-69" x="717.041016"/>
+       <use xlink:href="#Helvetica-74" x="739.257812"/>
+       <use xlink:href="#Helvetica-79" x="767.041016"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="645.154728" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- University of Wisconsin -->
+      <g transform="translate(51.89375 644.035978) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-55"/>
        <use xlink:href="#Helvetica-6e" x="72.216797"/>
        <use xlink:href="#Helvetica-69" x="127.832031"/>
@@ -2813,123 +2566,36 @@ z
        <use xlink:href="#Helvetica-6f" x="466.748047"/>
        <use xlink:href="#Helvetica-66" x="522.363281"/>
        <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-43" x="577.929688"/>
-       <use xlink:href="#Helvetica-6f" x="650.146484"/>
-       <use xlink:href="#Helvetica-6e" x="705.761719"/>
-       <use xlink:href="#Helvetica-6e" x="761.376953"/>
-       <use xlink:href="#Helvetica-65" x="816.992188"/>
-       <use xlink:href="#Helvetica-63" x="872.607422"/>
-       <use xlink:href="#Helvetica-74" x="922.607422"/>
-       <use xlink:href="#Helvetica-69" x="950.390625"/>
-       <use xlink:href="#Helvetica-63" x="972.607422"/>
-       <use xlink:href="#Helvetica-75" x="1022.607422"/>
-       <use xlink:href="#Helvetica-74" x="1078.222656"/>
+       <use xlink:href="#Helvetica-57" x="577.929688"/>
+       <use xlink:href="#Helvetica-69" x="672.314453"/>
+       <use xlink:href="#Helvetica-73" x="694.53125"/>
+       <use xlink:href="#Helvetica-63" x="744.53125"/>
+       <use xlink:href="#Helvetica-6f" x="794.53125"/>
+       <use xlink:href="#Helvetica-6e" x="850.146484"/>
+       <use xlink:href="#Helvetica-73" x="905.761719"/>
+       <use xlink:href="#Helvetica-69" x="955.761719"/>
+       <use xlink:href="#Helvetica-6e" x="977.978516"/>
       </g>
-     </g>
-    </g>
-    <g id="ytick_32">
-     <g id="line2d_40">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="467.422414" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_40">
-      <!-- Southern Methodist University -->
-      <g transform="translate(21.895312 471.106789)scale(0.1 -0.1)">
+      <!-- System -->
+      <g transform="translate(121.910938 655.022228) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-53"/>
-       <use xlink:href="#Helvetica-6f" x="66.699219"/>
-       <use xlink:href="#Helvetica-75" x="122.314453"/>
-       <use xlink:href="#Helvetica-74" x="177.929688"/>
-       <use xlink:href="#Helvetica-68" x="205.712891"/>
-       <use xlink:href="#Helvetica-65" x="261.328125"/>
-       <use xlink:href="#Helvetica-72" x="316.943359"/>
-       <use xlink:href="#Helvetica-6e" x="350.244141"/>
-       <use xlink:href="#Helvetica-20" x="405.859375"/>
-       <use xlink:href="#Helvetica-4d" x="433.642578"/>
-       <use xlink:href="#Helvetica-65" x="516.943359"/>
-       <use xlink:href="#Helvetica-74" x="572.558594"/>
-       <use xlink:href="#Helvetica-68" x="600.341797"/>
-       <use xlink:href="#Helvetica-6f" x="655.957031"/>
-       <use xlink:href="#Helvetica-64" x="711.572266"/>
-       <use xlink:href="#Helvetica-69" x="767.1875"/>
-       <use xlink:href="#Helvetica-73" x="789.404297"/>
-       <use xlink:href="#Helvetica-74" x="839.404297"/>
-       <use xlink:href="#Helvetica-20" x="867.1875"/>
-       <use xlink:href="#Helvetica-55" x="894.970703"/>
-       <use xlink:href="#Helvetica-6e" x="967.1875"/>
-       <use xlink:href="#Helvetica-69" x="1022.802734"/>
-       <use xlink:href="#Helvetica-76" x="1045.019531"/>
-       <use xlink:href="#Helvetica-65" x="1095.019531"/>
-       <use xlink:href="#Helvetica-72" x="1150.634766"/>
-       <use xlink:href="#Helvetica-73" x="1183.935547"/>
-       <use xlink:href="#Helvetica-69" x="1233.935547"/>
-       <use xlink:href="#Helvetica-74" x="1256.152344"/>
-       <use xlink:href="#Helvetica-79" x="1283.935547"/>
+       <use xlink:href="#Helvetica-79" x="66.699219"/>
+       <use xlink:href="#Helvetica-73" x="116.699219"/>
+       <use xlink:href="#Helvetica-74" x="166.699219"/>
+       <use xlink:href="#Helvetica-65" x="194.482422"/>
+       <use xlink:href="#Helvetica-6d" x="250.097656"/>
       </g>
      </g>
     </g>
-    <g id="ytick_33">
-     <g id="line2d_41">
+    <g id="ytick_25">
+     <g id="line2d_33">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="445.155282" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="622.90375" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_41">
-      <!-- University of California, -->
-      <g transform="translate(52.473437 444.181063)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-43" x="577.929688"/>
-       <use xlink:href="#Helvetica-61" x="650.146484"/>
-       <use xlink:href="#Helvetica-6c" x="705.761719"/>
-       <use xlink:href="#Helvetica-69" x="727.978516"/>
-       <use xlink:href="#Helvetica-66" x="750.195312"/>
-       <use xlink:href="#Helvetica-6f" x="777.978516"/>
-       <use xlink:href="#Helvetica-72" x="833.59375"/>
-       <use xlink:href="#Helvetica-6e" x="866.894531"/>
-       <use xlink:href="#Helvetica-69" x="922.509766"/>
-       <use xlink:href="#Helvetica-61" x="944.726562"/>
-       <use xlink:href="#Helvetica-2c" x="1000.341797"/>
-      </g>
-      <!-- Santa Barbara -->
-      <g transform="translate(90.798437 454.932938)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-53"/>
-       <use xlink:href="#Helvetica-61" x="66.699219"/>
-       <use xlink:href="#Helvetica-6e" x="122.314453"/>
-       <use xlink:href="#Helvetica-74" x="177.929688"/>
-       <use xlink:href="#Helvetica-61" x="205.712891"/>
-       <use xlink:href="#Helvetica-20" x="261.328125"/>
-       <use xlink:href="#Helvetica-42" x="289.111328"/>
-       <use xlink:href="#Helvetica-61" x="355.810547"/>
-       <use xlink:href="#Helvetica-72" x="411.425781"/>
-       <use xlink:href="#Helvetica-62" x="444.726562"/>
-       <use xlink:href="#Helvetica-61" x="500.341797"/>
-       <use xlink:href="#Helvetica-72" x="555.957031"/>
-       <use xlink:href="#Helvetica-61" x="589.257812"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_34">
-     <g id="line2d_42">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="422.888149" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_42">
+     <g id="text_33">
       <!-- Case Western Reserve -->
-      <g transform="translate(51.917187 421.845961)scale(0.1 -0.1)">
+      <g transform="translate(51.885937 621.861562) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-52" d="M 2622 2488 
 Q 3059 2488 3314 2663 
@@ -2987,7 +2653,7 @@ z
        <use xlink:href="#Helvetica-65" x="978.076172"/>
       </g>
       <!-- University -->
-      <g transform="translate(111.385937 432.538461)scale(0.1 -0.1)">
+      <g transform="translate(111.354687 632.554062) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-55"/>
        <use xlink:href="#Helvetica-6e" x="72.216797"/>
        <use xlink:href="#Helvetica-69" x="127.832031"/>
@@ -3001,15 +2667,169 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_35">
-     <g id="line2d_43">
+    <g id="ytick_26">
+     <g id="line2d_34">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="400.621016" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="600.652772" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_43">
-      <!-- University of Rochester -->
-      <g transform="translate(51.917187 404.258516)scale(0.1 -0.1)">
+     <g id="text_34">
+      <!-- New York University -->
+      <g transform="translate(65.232812 604.239491) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-4e"/>
+       <use xlink:href="#Helvetica-65" x="72.216797"/>
+       <use xlink:href="#Helvetica-77" x="127.832031"/>
+       <use xlink:href="#Helvetica-20" x="200.048828"/>
+       <use xlink:href="#Helvetica-59" x="227.832031"/>
+       <use xlink:href="#Helvetica-6f" x="294.53125"/>
+       <use xlink:href="#Helvetica-72" x="350.146484"/>
+       <use xlink:href="#Helvetica-6b" x="383.447266"/>
+       <use xlink:href="#Helvetica-20" x="433.447266"/>
+       <use xlink:href="#Helvetica-55" x="461.230469"/>
+       <use xlink:href="#Helvetica-6e" x="533.447266"/>
+       <use xlink:href="#Helvetica-69" x="589.0625"/>
+       <use xlink:href="#Helvetica-76" x="611.279297"/>
+       <use xlink:href="#Helvetica-65" x="661.279297"/>
+       <use xlink:href="#Helvetica-72" x="716.894531"/>
+       <use xlink:href="#Helvetica-73" x="750.195312"/>
+       <use xlink:href="#Helvetica-69" x="800.195312"/>
+       <use xlink:href="#Helvetica-74" x="822.412109"/>
+       <use xlink:href="#Helvetica-79" x="850.195312"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="578.401794" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <!-- Oregon State University -->
+      <g transform="translate(49.098437 582.086169) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-4f"/>
+       <use xlink:href="#Helvetica-72" x="77.783203"/>
+       <use xlink:href="#Helvetica-65" x="111.083984"/>
+       <use xlink:href="#Helvetica-67" x="166.699219"/>
+       <use xlink:href="#Helvetica-6f" x="222.314453"/>
+       <use xlink:href="#Helvetica-6e" x="277.929688"/>
+       <use xlink:href="#Helvetica-20" x="333.544922"/>
+       <use xlink:href="#Helvetica-53" x="361.328125"/>
+       <use xlink:href="#Helvetica-74" x="428.027344"/>
+       <use xlink:href="#Helvetica-61" x="455.810547"/>
+       <use xlink:href="#Helvetica-74" x="511.425781"/>
+       <use xlink:href="#Helvetica-65" x="539.208984"/>
+       <use xlink:href="#Helvetica-20" x="594.824219"/>
+       <use xlink:href="#Helvetica-55" x="622.607422"/>
+       <use xlink:href="#Helvetica-6e" x="694.824219"/>
+       <use xlink:href="#Helvetica-69" x="750.439453"/>
+       <use xlink:href="#Helvetica-76" x="772.65625"/>
+       <use xlink:href="#Helvetica-65" x="822.65625"/>
+       <use xlink:href="#Helvetica-72" x="878.271484"/>
+       <use xlink:href="#Helvetica-73" x="911.572266"/>
+       <use xlink:href="#Helvetica-69" x="961.572266"/>
+       <use xlink:href="#Helvetica-74" x="983.789062"/>
+       <use xlink:href="#Helvetica-79" x="1011.572266"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="556.150816" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <!-- Otherdo not wish to -->
+      <g transform="translate(68.542187 555.057847) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-4f"/>
+       <use xlink:href="#Helvetica-74" x="77.783203"/>
+       <use xlink:href="#Helvetica-68" x="105.566406"/>
+       <use xlink:href="#Helvetica-65" x="161.181641"/>
+       <use xlink:href="#Helvetica-72" x="216.796875"/>
+       <use xlink:href="#Helvetica-64" x="250.097656"/>
+       <use xlink:href="#Helvetica-6f" x="305.712891"/>
+       <use xlink:href="#Helvetica-20" x="361.328125"/>
+       <use xlink:href="#Helvetica-6e" x="389.111328"/>
+       <use xlink:href="#Helvetica-6f" x="444.726562"/>
+       <use xlink:href="#Helvetica-74" x="500.341797"/>
+       <use xlink:href="#Helvetica-20" x="528.125"/>
+       <use xlink:href="#Helvetica-77" x="555.908203"/>
+       <use xlink:href="#Helvetica-69" x="628.125"/>
+       <use xlink:href="#Helvetica-73" x="650.341797"/>
+       <use xlink:href="#Helvetica-68" x="700.341797"/>
+       <use xlink:href="#Helvetica-20" x="755.957031"/>
+       <use xlink:href="#Helvetica-74" x="783.740234"/>
+       <use xlink:href="#Helvetica-6f" x="811.523438"/>
+      </g>
+      <!-- specify -->
+      <g transform="translate(124.128125 565.872222) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-73"/>
+       <use xlink:href="#Helvetica-70" x="50"/>
+       <use xlink:href="#Helvetica-65" x="105.615234"/>
+       <use xlink:href="#Helvetica-63" x="161.230469"/>
+       <use xlink:href="#Helvetica-69" x="211.230469"/>
+       <use xlink:href="#Helvetica-66" x="233.447266"/>
+       <use xlink:href="#Helvetica-79" x="261.230469"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="533.899838" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <!-- Indiana University at -->
+      <g transform="translate(64.654687 532.839682) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-49"/>
+       <use xlink:href="#Helvetica-6e" x="27.783203"/>
+       <use xlink:href="#Helvetica-64" x="83.398438"/>
+       <use xlink:href="#Helvetica-69" x="139.013672"/>
+       <use xlink:href="#Helvetica-61" x="161.230469"/>
+       <use xlink:href="#Helvetica-6e" x="216.845703"/>
+       <use xlink:href="#Helvetica-61" x="272.460938"/>
+       <use xlink:href="#Helvetica-20" x="328.076172"/>
+       <use xlink:href="#Helvetica-55" x="355.859375"/>
+       <use xlink:href="#Helvetica-6e" x="428.076172"/>
+       <use xlink:href="#Helvetica-69" x="483.691406"/>
+       <use xlink:href="#Helvetica-76" x="505.908203"/>
+       <use xlink:href="#Helvetica-65" x="555.908203"/>
+       <use xlink:href="#Helvetica-72" x="611.523438"/>
+       <use xlink:href="#Helvetica-73" x="644.824219"/>
+       <use xlink:href="#Helvetica-69" x="694.824219"/>
+       <use xlink:href="#Helvetica-74" x="717.041016"/>
+       <use xlink:href="#Helvetica-79" x="744.824219"/>
+       <use xlink:href="#Helvetica-20" x="794.824219"/>
+       <use xlink:href="#Helvetica-61" x="822.607422"/>
+       <use xlink:href="#Helvetica-74" x="878.222656"/>
+      </g>
+      <!-- Bloomington -->
+      <g transform="translate(99.6625 543.591557) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-42"/>
+       <use xlink:href="#Helvetica-6c" x="66.699219"/>
+       <use xlink:href="#Helvetica-6f" x="88.916016"/>
+       <use xlink:href="#Helvetica-6f" x="144.53125"/>
+       <use xlink:href="#Helvetica-6d" x="200.146484"/>
+       <use xlink:href="#Helvetica-69" x="283.447266"/>
+       <use xlink:href="#Helvetica-6e" x="305.664062"/>
+       <use xlink:href="#Helvetica-67" x="361.279297"/>
+       <use xlink:href="#Helvetica-74" x="416.894531"/>
+       <use xlink:href="#Helvetica-6f" x="444.677734"/>
+       <use xlink:href="#Helvetica-6e" x="500.292969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="511.64886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <!-- University of California, -->
+      <g transform="translate(52.442187 510.674641) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-55"/>
        <use xlink:href="#Helvetica-6e" x="72.216797"/>
        <use xlink:href="#Helvetica-69" x="127.832031"/>
@@ -3024,27 +2844,200 @@ z
        <use xlink:href="#Helvetica-6f" x="466.748047"/>
        <use xlink:href="#Helvetica-66" x="522.363281"/>
        <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-52" x="577.929688"/>
+       <use xlink:href="#Helvetica-43" x="577.929688"/>
+       <use xlink:href="#Helvetica-61" x="650.146484"/>
+       <use xlink:href="#Helvetica-6c" x="705.761719"/>
+       <use xlink:href="#Helvetica-69" x="727.978516"/>
+       <use xlink:href="#Helvetica-66" x="750.195312"/>
+       <use xlink:href="#Helvetica-6f" x="777.978516"/>
+       <use xlink:href="#Helvetica-72" x="833.59375"/>
+       <use xlink:href="#Helvetica-6e" x="866.894531"/>
+       <use xlink:href="#Helvetica-69" x="922.509766"/>
+       <use xlink:href="#Helvetica-61" x="944.726562"/>
+       <use xlink:href="#Helvetica-2c" x="1000.341797"/>
+      </g>
+      <!-- Irvine -->
+      <g transform="translate(130.798438 521.426516) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-49"/>
+       <use xlink:href="#Helvetica-72" x="27.783203"/>
+       <use xlink:href="#Helvetica-76" x="61.083984"/>
+       <use xlink:href="#Helvetica-69" x="111.083984"/>
+       <use xlink:href="#Helvetica-6e" x="133.300781"/>
+       <use xlink:href="#Helvetica-65" x="188.916016"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="489.397882" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <!-- University of Wyoming -->
+      <g transform="translate(55.785937 493.035382) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-57" x="577.929688"/>
+       <use xlink:href="#Helvetica-79" x="672.314453"/>
+       <use xlink:href="#Helvetica-6f" x="722.314453"/>
+       <use xlink:href="#Helvetica-6d" x="777.929688"/>
+       <use xlink:href="#Helvetica-69" x="861.230469"/>
+       <use xlink:href="#Helvetica-6e" x="883.447266"/>
+       <use xlink:href="#Helvetica-67" x="939.0625"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="467.146904" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <!-- University of Notre -->
+      <g transform="translate(73.007812 466.12581) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-4e" x="577.929688"/>
        <use xlink:href="#Helvetica-6f" x="650.146484"/>
-       <use xlink:href="#Helvetica-63" x="705.761719"/>
-       <use xlink:href="#Helvetica-68" x="755.761719"/>
-       <use xlink:href="#Helvetica-65" x="811.376953"/>
-       <use xlink:href="#Helvetica-73" x="866.992188"/>
-       <use xlink:href="#Helvetica-74" x="916.992188"/>
-       <use xlink:href="#Helvetica-65" x="944.775391"/>
-       <use xlink:href="#Helvetica-72" x="1000.390625"/>
+       <use xlink:href="#Helvetica-74" x="705.761719"/>
+       <use xlink:href="#Helvetica-72" x="733.544922"/>
+       <use xlink:href="#Helvetica-65" x="766.845703"/>
+      </g>
+      <!-- Dame -->
+      <g transform="translate(128.576562 476.877685) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-44"/>
+       <use xlink:href="#Helvetica-61" x="72.216797"/>
+       <use xlink:href="#Helvetica-6d" x="127.832031"/>
+       <use xlink:href="#Helvetica-65" x="211.132812"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="444.895926" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <!-- Tufts University -->
+      <g transform="translate(86.351562 448.533426) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-54"/>
+       <use xlink:href="#Helvetica-75" x="61.083984"/>
+       <use xlink:href="#Helvetica-66" x="116.699219"/>
+       <use xlink:href="#Helvetica-74" x="144.482422"/>
+       <use xlink:href="#Helvetica-73" x="172.265625"/>
+       <use xlink:href="#Helvetica-20" x="222.265625"/>
+       <use xlink:href="#Helvetica-55" x="250.048828"/>
+       <use xlink:href="#Helvetica-6e" x="322.265625"/>
+       <use xlink:href="#Helvetica-69" x="377.880859"/>
+       <use xlink:href="#Helvetica-76" x="400.097656"/>
+       <use xlink:href="#Helvetica-65" x="450.097656"/>
+       <use xlink:href="#Helvetica-72" x="505.712891"/>
+       <use xlink:href="#Helvetica-73" x="539.013672"/>
+       <use xlink:href="#Helvetica-69" x="589.013672"/>
+       <use xlink:href="#Helvetica-74" x="611.230469"/>
+       <use xlink:href="#Helvetica-79" x="639.013672"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="422.644948" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <!-- University of Florida -->
+      <g transform="translate(66.895312 426.282448) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-46" x="577.929688"/>
+       <use xlink:href="#Helvetica-6c" x="639.013672"/>
+       <use xlink:href="#Helvetica-6f" x="661.230469"/>
+       <use xlink:href="#Helvetica-72" x="716.845703"/>
+       <use xlink:href="#Helvetica-69" x="750.146484"/>
+       <use xlink:href="#Helvetica-64" x="772.363281"/>
+       <use xlink:href="#Helvetica-61" x="827.978516"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="line2d_43">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="400.39397" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <!-- Rutgers University -->
+      <g transform="translate(73.564062 403.980689) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-52"/>
+       <use xlink:href="#Helvetica-75" x="72.216797"/>
+       <use xlink:href="#Helvetica-74" x="127.832031"/>
+       <use xlink:href="#Helvetica-67" x="155.615234"/>
+       <use xlink:href="#Helvetica-65" x="211.230469"/>
+       <use xlink:href="#Helvetica-72" x="266.845703"/>
+       <use xlink:href="#Helvetica-73" x="300.146484"/>
+       <use xlink:href="#Helvetica-20" x="350.146484"/>
+       <use xlink:href="#Helvetica-55" x="377.929688"/>
+       <use xlink:href="#Helvetica-6e" x="450.146484"/>
+       <use xlink:href="#Helvetica-69" x="505.761719"/>
+       <use xlink:href="#Helvetica-76" x="527.978516"/>
+       <use xlink:href="#Helvetica-65" x="577.978516"/>
+       <use xlink:href="#Helvetica-72" x="633.59375"/>
+       <use xlink:href="#Helvetica-73" x="666.894531"/>
+       <use xlink:href="#Helvetica-69" x="716.894531"/>
+       <use xlink:href="#Helvetica-74" x="739.111328"/>
+       <use xlink:href="#Helvetica-79" x="766.894531"/>
       </g>
      </g>
     </g>
     <g id="ytick_36">
      <g id="line2d_44">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="378.353883" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="378.142992" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_44">
       <!-- University of Texas -->
-      <g transform="translate(70.260937 377.332789)scale(0.1 -0.1)">
+      <g transform="translate(70.229687 377.121898) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-78" d="M 94 3347 
 L 822 3347 
@@ -3083,7 +3076,7 @@ z
        <use xlink:href="#Helvetica-73" x="800.244141"/>
       </g>
       <!-- at Dallas -->
-      <g transform="translate(116.376563 388.084664)scale(0.1 -0.1)">
+      <g transform="translate(116.345313 387.873773) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-61"/>
        <use xlink:href="#Helvetica-74" x="55.615234"/>
        <use xlink:href="#Helvetica-20" x="83.398438"/>
@@ -3099,12 +3092,73 @@ z
     <g id="ytick_37">
      <g id="line2d_45">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="356.08675" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="355.892014" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_45">
+      <!-- Clemson University -->
+      <g transform="translate(69.120312 359.576389) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-43"/>
+       <use xlink:href="#Helvetica-6c" x="72.216797"/>
+       <use xlink:href="#Helvetica-65" x="94.433594"/>
+       <use xlink:href="#Helvetica-6d" x="150.048828"/>
+       <use xlink:href="#Helvetica-73" x="233.349609"/>
+       <use xlink:href="#Helvetica-6f" x="283.349609"/>
+       <use xlink:href="#Helvetica-6e" x="338.964844"/>
+       <use xlink:href="#Helvetica-20" x="394.580078"/>
+       <use xlink:href="#Helvetica-55" x="422.363281"/>
+       <use xlink:href="#Helvetica-6e" x="494.580078"/>
+       <use xlink:href="#Helvetica-69" x="550.195312"/>
+       <use xlink:href="#Helvetica-76" x="572.412109"/>
+       <use xlink:href="#Helvetica-65" x="622.412109"/>
+       <use xlink:href="#Helvetica-72" x="678.027344"/>
+       <use xlink:href="#Helvetica-73" x="711.328125"/>
+       <use xlink:href="#Helvetica-69" x="761.328125"/>
+       <use xlink:href="#Helvetica-74" x="783.544922"/>
+       <use xlink:href="#Helvetica-79" x="811.328125"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_38">
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="333.641036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <!-- Stanford University -->
+      <g transform="translate(70.776562 337.325411) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-53"/>
+       <use xlink:href="#Helvetica-74" x="66.699219"/>
+       <use xlink:href="#Helvetica-61" x="94.482422"/>
+       <use xlink:href="#Helvetica-6e" x="150.097656"/>
+       <use xlink:href="#Helvetica-66" x="205.712891"/>
+       <use xlink:href="#Helvetica-6f" x="233.496094"/>
+       <use xlink:href="#Helvetica-72" x="289.111328"/>
+       <use xlink:href="#Helvetica-64" x="322.412109"/>
+       <use xlink:href="#Helvetica-20" x="378.027344"/>
+       <use xlink:href="#Helvetica-55" x="405.810547"/>
+       <use xlink:href="#Helvetica-6e" x="478.027344"/>
+       <use xlink:href="#Helvetica-69" x="533.642578"/>
+       <use xlink:href="#Helvetica-76" x="555.859375"/>
+       <use xlink:href="#Helvetica-65" x="605.859375"/>
+       <use xlink:href="#Helvetica-72" x="661.474609"/>
+       <use xlink:href="#Helvetica-73" x="694.775391"/>
+       <use xlink:href="#Helvetica-69" x="744.775391"/>
+       <use xlink:href="#Helvetica-74" x="766.992188"/>
+       <use xlink:href="#Helvetica-79" x="794.775391"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_39">
+     <g id="line2d_47">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="311.390058" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_47">
       <!-- University of California, -->
-      <g transform="translate(52.473437 355.112532)scale(0.1 -0.1)">
+      <g transform="translate(52.442187 310.415839) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-55"/>
        <use xlink:href="#Helvetica-6e" x="72.216797"/>
        <use xlink:href="#Helvetica-69" x="127.832031"/>
@@ -3132,7 +3186,7 @@ z
        <use xlink:href="#Helvetica-2c" x="1000.341797"/>
       </g>
       <!-- San Francisco -->
-      <g transform="translate(91.36875 365.864407)scale(0.1 -0.1)">
+      <g transform="translate(91.3375 321.167714) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-53"/>
        <use xlink:href="#Helvetica-61" x="66.699219"/>
        <use xlink:href="#Helvetica-6e" x="122.314453"/>
@@ -3149,188 +3203,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_38">
-     <g id="line2d_46">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="333.819618" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_46">
-      <!-- University of Chicago -->
-      <g transform="translate(60.803125 337.503993)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-43" x="577.929688"/>
-       <use xlink:href="#Helvetica-68" x="650.146484"/>
-       <use xlink:href="#Helvetica-69" x="705.761719"/>
-       <use xlink:href="#Helvetica-63" x="727.978516"/>
-       <use xlink:href="#Helvetica-61" x="777.978516"/>
-       <use xlink:href="#Helvetica-67" x="833.59375"/>
-       <use xlink:href="#Helvetica-6f" x="889.208984"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_39">
-     <g id="line2d_47">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="311.552485" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_47">
-      <!-- Duke University -->
-      <g transform="translate(85.264062 315.139204)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-44"/>
-       <use xlink:href="#Helvetica-75" x="72.216797"/>
-       <use xlink:href="#Helvetica-6b" x="127.832031"/>
-       <use xlink:href="#Helvetica-65" x="177.832031"/>
-       <use xlink:href="#Helvetica-20" x="233.447266"/>
-       <use xlink:href="#Helvetica-55" x="261.230469"/>
-       <use xlink:href="#Helvetica-6e" x="333.447266"/>
-       <use xlink:href="#Helvetica-69" x="389.0625"/>
-       <use xlink:href="#Helvetica-76" x="411.279297"/>
-       <use xlink:href="#Helvetica-65" x="461.279297"/>
-       <use xlink:href="#Helvetica-72" x="516.894531"/>
-       <use xlink:href="#Helvetica-73" x="550.195312"/>
-       <use xlink:href="#Helvetica-69" x="600.195312"/>
-       <use xlink:href="#Helvetica-74" x="622.412109"/>
-       <use xlink:href="#Helvetica-79" x="650.195312"/>
-      </g>
-     </g>
-    </g>
     <g id="ytick_40">
      <g id="line2d_48">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="289.285352" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="289.13908" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_48">
-      <!-- University of Florida -->
-      <g transform="translate(66.926562 292.922852)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-46" x="577.929688"/>
-       <use xlink:href="#Helvetica-6c" x="639.013672"/>
-       <use xlink:href="#Helvetica-6f" x="661.230469"/>
-       <use xlink:href="#Helvetica-72" x="716.845703"/>
-       <use xlink:href="#Helvetica-69" x="750.146484"/>
-       <use xlink:href="#Helvetica-64" x="772.363281"/>
-       <use xlink:href="#Helvetica-61" x="827.978516"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_41">
-     <g id="line2d_49">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="267.018219" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_49">
-      <!-- University of California, -->
-      <g transform="translate(52.473437 265.946344)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-55"/>
-       <use xlink:href="#Helvetica-6e" x="72.216797"/>
-       <use xlink:href="#Helvetica-69" x="127.832031"/>
-       <use xlink:href="#Helvetica-76" x="150.048828"/>
-       <use xlink:href="#Helvetica-65" x="200.048828"/>
-       <use xlink:href="#Helvetica-72" x="255.664062"/>
-       <use xlink:href="#Helvetica-73" x="288.964844"/>
-       <use xlink:href="#Helvetica-69" x="338.964844"/>
-       <use xlink:href="#Helvetica-74" x="361.181641"/>
-       <use xlink:href="#Helvetica-79" x="388.964844"/>
-       <use xlink:href="#Helvetica-20" x="438.964844"/>
-       <use xlink:href="#Helvetica-6f" x="466.748047"/>
-       <use xlink:href="#Helvetica-66" x="522.363281"/>
-       <use xlink:href="#Helvetica-20" x="550.146484"/>
-       <use xlink:href="#Helvetica-43" x="577.929688"/>
-       <use xlink:href="#Helvetica-61" x="650.146484"/>
-       <use xlink:href="#Helvetica-6c" x="705.761719"/>
-       <use xlink:href="#Helvetica-69" x="727.978516"/>
-       <use xlink:href="#Helvetica-66" x="750.195312"/>
-       <use xlink:href="#Helvetica-6f" x="777.978516"/>
-       <use xlink:href="#Helvetica-72" x="833.59375"/>
-       <use xlink:href="#Helvetica-6e" x="866.894531"/>
-       <use xlink:href="#Helvetica-69" x="922.509766"/>
-       <use xlink:href="#Helvetica-61" x="944.726562"/>
-       <use xlink:href="#Helvetica-2c" x="1000.341797"/>
-      </g>
-      <!-- San Diego -->
-      <g transform="translate(108.584375 276.932594)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-53"/>
-       <use xlink:href="#Helvetica-61" x="66.699219"/>
-       <use xlink:href="#Helvetica-6e" x="122.314453"/>
-       <use xlink:href="#Helvetica-20" x="177.929688"/>
-       <use xlink:href="#Helvetica-44" x="205.712891"/>
-       <use xlink:href="#Helvetica-69" x="277.929688"/>
-       <use xlink:href="#Helvetica-65" x="300.146484"/>
-       <use xlink:href="#Helvetica-67" x="355.761719"/>
-       <use xlink:href="#Helvetica-6f" x="411.376953"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_42">
-     <g id="line2d_50">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="244.751087" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_50">
-      <!-- Stanford University -->
-      <g transform="translate(70.807812 248.435462)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-53"/>
-       <use xlink:href="#Helvetica-74" x="66.699219"/>
-       <use xlink:href="#Helvetica-61" x="94.482422"/>
-       <use xlink:href="#Helvetica-6e" x="150.097656"/>
-       <use xlink:href="#Helvetica-66" x="205.712891"/>
-       <use xlink:href="#Helvetica-6f" x="233.496094"/>
-       <use xlink:href="#Helvetica-72" x="289.111328"/>
-       <use xlink:href="#Helvetica-64" x="322.412109"/>
-       <use xlink:href="#Helvetica-20" x="378.027344"/>
-       <use xlink:href="#Helvetica-55" x="405.810547"/>
-       <use xlink:href="#Helvetica-6e" x="478.027344"/>
-       <use xlink:href="#Helvetica-69" x="533.642578"/>
-       <use xlink:href="#Helvetica-76" x="555.859375"/>
-       <use xlink:href="#Helvetica-65" x="605.859375"/>
-       <use xlink:href="#Helvetica-72" x="661.474609"/>
-       <use xlink:href="#Helvetica-73" x="694.775391"/>
-       <use xlink:href="#Helvetica-69" x="744.775391"/>
-       <use xlink:href="#Helvetica-74" x="766.992188"/>
-       <use xlink:href="#Helvetica-79" x="794.775391"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_43">
-     <g id="line2d_51">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="222.483954" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_51">
       <!-- OtherUniversity of Exeter -->
-      <g transform="translate(43.582812 226.168329)scale(0.1 -0.1)">
+      <g transform="translate(43.551562 292.823455) scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-45" d="M 547 4591 
 L 3894 4591 
@@ -3379,152 +3260,68 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_44">
-     <g id="line2d_52">
+    <g id="ytick_41">
+     <g id="line2d_49">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="200.216821" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="266.888102" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_52">
-      <!-- Rutgers University -->
-      <g transform="translate(73.595312 203.80354)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-52"/>
-       <use xlink:href="#Helvetica-75" x="72.216797"/>
-       <use xlink:href="#Helvetica-74" x="127.832031"/>
-       <use xlink:href="#Helvetica-67" x="155.615234"/>
-       <use xlink:href="#Helvetica-65" x="211.230469"/>
-       <use xlink:href="#Helvetica-72" x="266.845703"/>
-       <use xlink:href="#Helvetica-73" x="300.146484"/>
-       <use xlink:href="#Helvetica-20" x="350.146484"/>
-       <use xlink:href="#Helvetica-55" x="377.929688"/>
-       <use xlink:href="#Helvetica-6e" x="450.146484"/>
-       <use xlink:href="#Helvetica-69" x="505.761719"/>
-       <use xlink:href="#Helvetica-76" x="527.978516"/>
-       <use xlink:href="#Helvetica-65" x="577.978516"/>
-       <use xlink:href="#Helvetica-72" x="633.59375"/>
-       <use xlink:href="#Helvetica-73" x="666.894531"/>
-       <use xlink:href="#Helvetica-69" x="716.894531"/>
-       <use xlink:href="#Helvetica-74" x="739.111328"/>
-       <use xlink:href="#Helvetica-79" x="766.894531"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_45">
-     <g id="line2d_53">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="177.949688" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_53">
-      <!-- New York University -->
-      <g transform="translate(65.264062 181.536407)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-4e"/>
-       <use xlink:href="#Helvetica-65" x="72.216797"/>
-       <use xlink:href="#Helvetica-77" x="127.832031"/>
-       <use xlink:href="#Helvetica-20" x="200.048828"/>
-       <use xlink:href="#Helvetica-59" x="227.832031"/>
-       <use xlink:href="#Helvetica-6f" x="294.53125"/>
-       <use xlink:href="#Helvetica-72" x="350.146484"/>
-       <use xlink:href="#Helvetica-6b" x="383.447266"/>
-       <use xlink:href="#Helvetica-20" x="433.447266"/>
-       <use xlink:href="#Helvetica-55" x="461.230469"/>
-       <use xlink:href="#Helvetica-6e" x="533.447266"/>
-       <use xlink:href="#Helvetica-69" x="589.0625"/>
-       <use xlink:href="#Helvetica-76" x="611.279297"/>
-       <use xlink:href="#Helvetica-65" x="661.279297"/>
-       <use xlink:href="#Helvetica-72" x="716.894531"/>
-       <use xlink:href="#Helvetica-73" x="750.195312"/>
-       <use xlink:href="#Helvetica-69" x="800.195312"/>
-       <use xlink:href="#Helvetica-74" x="822.412109"/>
-       <use xlink:href="#Helvetica-79" x="850.195312"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_46">
-     <g id="line2d_54">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="155.682555" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_54">
-      <!-- Indiana University at -->
-      <g transform="translate(64.685937 154.622399)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-49"/>
-       <use xlink:href="#Helvetica-6e" x="27.783203"/>
-       <use xlink:href="#Helvetica-64" x="83.398438"/>
-       <use xlink:href="#Helvetica-69" x="139.013672"/>
-       <use xlink:href="#Helvetica-61" x="161.230469"/>
-       <use xlink:href="#Helvetica-6e" x="216.845703"/>
-       <use xlink:href="#Helvetica-61" x="272.460938"/>
-       <use xlink:href="#Helvetica-20" x="328.076172"/>
-       <use xlink:href="#Helvetica-55" x="355.859375"/>
-       <use xlink:href="#Helvetica-6e" x="428.076172"/>
-       <use xlink:href="#Helvetica-69" x="483.691406"/>
-       <use xlink:href="#Helvetica-76" x="505.908203"/>
-       <use xlink:href="#Helvetica-65" x="555.908203"/>
-       <use xlink:href="#Helvetica-72" x="611.523438"/>
-       <use xlink:href="#Helvetica-73" x="644.824219"/>
-       <use xlink:href="#Helvetica-69" x="694.824219"/>
-       <use xlink:href="#Helvetica-74" x="717.041016"/>
-       <use xlink:href="#Helvetica-79" x="744.824219"/>
-       <use xlink:href="#Helvetica-20" x="794.824219"/>
-       <use xlink:href="#Helvetica-61" x="822.607422"/>
-       <use xlink:href="#Helvetica-74" x="878.222656"/>
-      </g>
-      <!-- Bloomington -->
-      <g transform="translate(99.69375 165.374274)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-42"/>
-       <use xlink:href="#Helvetica-6c" x="66.699219"/>
-       <use xlink:href="#Helvetica-6f" x="88.916016"/>
-       <use xlink:href="#Helvetica-6f" x="144.53125"/>
-       <use xlink:href="#Helvetica-6d" x="200.146484"/>
-       <use xlink:href="#Helvetica-69" x="283.447266"/>
-       <use xlink:href="#Helvetica-6e" x="305.664062"/>
-       <use xlink:href="#Helvetica-67" x="361.279297"/>
-       <use xlink:href="#Helvetica-74" x="416.894531"/>
-       <use xlink:href="#Helvetica-6f" x="444.677734"/>
-       <use xlink:href="#Helvetica-6e" x="500.292969"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_47">
-     <g id="line2d_55">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="133.415423" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_55">
-      <!-- Tulane University -->
-      <g transform="translate(78.034375 137.002141)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-54"/>
-       <use xlink:href="#Helvetica-75" x="61.083984"/>
-       <use xlink:href="#Helvetica-6c" x="116.699219"/>
-       <use xlink:href="#Helvetica-61" x="138.916016"/>
-       <use xlink:href="#Helvetica-6e" x="194.53125"/>
-       <use xlink:href="#Helvetica-65" x="250.146484"/>
-       <use xlink:href="#Helvetica-20" x="305.761719"/>
-       <use xlink:href="#Helvetica-55" x="333.544922"/>
-       <use xlink:href="#Helvetica-6e" x="405.761719"/>
-       <use xlink:href="#Helvetica-69" x="461.376953"/>
-       <use xlink:href="#Helvetica-76" x="483.59375"/>
-       <use xlink:href="#Helvetica-65" x="533.59375"/>
-       <use xlink:href="#Helvetica-72" x="589.208984"/>
-       <use xlink:href="#Helvetica-73" x="622.509766"/>
-       <use xlink:href="#Helvetica-69" x="672.509766"/>
-       <use xlink:href="#Helvetica-74" x="694.726562"/>
-       <use xlink:href="#Helvetica-79" x="722.509766"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_48">
-     <g id="line2d_56">
-      <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="111.14829" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_56">
+     <g id="text_49">
       <!-- University of California, -->
-      <g transform="translate(52.473437 110.174071)scale(0.1 -0.1)">
+      <g transform="translate(52.442187 265.913883) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-43" x="577.929688"/>
+       <use xlink:href="#Helvetica-61" x="650.146484"/>
+       <use xlink:href="#Helvetica-6c" x="705.761719"/>
+       <use xlink:href="#Helvetica-69" x="727.978516"/>
+       <use xlink:href="#Helvetica-66" x="750.195312"/>
+       <use xlink:href="#Helvetica-6f" x="777.978516"/>
+       <use xlink:href="#Helvetica-72" x="833.59375"/>
+       <use xlink:href="#Helvetica-6e" x="866.894531"/>
+       <use xlink:href="#Helvetica-69" x="922.509766"/>
+       <use xlink:href="#Helvetica-61" x="944.726562"/>
+       <use xlink:href="#Helvetica-2c" x="1000.341797"/>
+      </g>
+      <!-- Santa Barbara -->
+      <g transform="translate(90.767187 276.665758) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-53"/>
+       <use xlink:href="#Helvetica-61" x="66.699219"/>
+       <use xlink:href="#Helvetica-6e" x="122.314453"/>
+       <use xlink:href="#Helvetica-74" x="177.929688"/>
+       <use xlink:href="#Helvetica-61" x="205.712891"/>
+       <use xlink:href="#Helvetica-20" x="261.328125"/>
+       <use xlink:href="#Helvetica-42" x="289.111328"/>
+       <use xlink:href="#Helvetica-61" x="355.810547"/>
+       <use xlink:href="#Helvetica-72" x="411.425781"/>
+       <use xlink:href="#Helvetica-62" x="444.726562"/>
+       <use xlink:href="#Helvetica-61" x="500.341797"/>
+       <use xlink:href="#Helvetica-72" x="555.957031"/>
+       <use xlink:href="#Helvetica-61" x="589.257812"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_42">
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="244.637124" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_50">
+      <!-- University of California, -->
+      <g transform="translate(52.442187 243.662905) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-55"/>
        <use xlink:href="#Helvetica-6e" x="72.216797"/>
        <use xlink:href="#Helvetica-69" x="127.832031"/>
@@ -3552,7 +3349,7 @@ z
        <use xlink:href="#Helvetica-2c" x="1000.341797"/>
       </g>
       <!-- Berkeley -->
-      <g transform="translate(116.376563 120.925946)scale(0.1 -0.1)">
+      <g transform="translate(116.345313 254.41478) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-42"/>
        <use xlink:href="#Helvetica-65" x="66.699219"/>
        <use xlink:href="#Helvetica-72" x="122.314453"/>
@@ -3564,15 +3361,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_49">
-     <g id="line2d_57">
+    <g id="ytick_43">
+     <g id="line2d_51">
       <g>
-       <use xlink:href="#m8e343aef83" x="162.28125" y="88.881157" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="162.25" y="222.386146" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_57">
+     <g id="text_51">
       <!-- University of California, -->
-      <g transform="translate(52.473437 87.906938)scale(0.1 -0.1)">
+      <g transform="translate(52.442187 221.314271) scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-55"/>
        <use xlink:href="#Helvetica-6e" x="72.216797"/>
        <use xlink:href="#Helvetica-69" x="127.832031"/>
@@ -3599,21 +3396,226 @@ z
        <use xlink:href="#Helvetica-61" x="944.726562"/>
        <use xlink:href="#Helvetica-2c" x="1000.341797"/>
       </g>
-      <!-- Irvine -->
-      <g transform="translate(130.829688 98.658813)scale(0.1 -0.1)">
-       <use xlink:href="#Helvetica-49"/>
-       <use xlink:href="#Helvetica-72" x="27.783203"/>
-       <use xlink:href="#Helvetica-76" x="61.083984"/>
-       <use xlink:href="#Helvetica-69" x="111.083984"/>
-       <use xlink:href="#Helvetica-6e" x="133.300781"/>
-       <use xlink:href="#Helvetica-65" x="188.916016"/>
+      <!-- San Diego -->
+      <g transform="translate(108.553125 232.300521) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-53"/>
+       <use xlink:href="#Helvetica-61" x="66.699219"/>
+       <use xlink:href="#Helvetica-6e" x="122.314453"/>
+       <use xlink:href="#Helvetica-20" x="177.929688"/>
+       <use xlink:href="#Helvetica-44" x="205.712891"/>
+       <use xlink:href="#Helvetica-69" x="277.929688"/>
+       <use xlink:href="#Helvetica-65" x="300.146484"/>
+       <use xlink:href="#Helvetica-67" x="355.761719"/>
+       <use xlink:href="#Helvetica-6f" x="411.376953"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_44">
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="200.135168" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <!-- University of Connecticut -->
+      <g transform="translate(44.654687 203.819543) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-43" x="577.929688"/>
+       <use xlink:href="#Helvetica-6f" x="650.146484"/>
+       <use xlink:href="#Helvetica-6e" x="705.761719"/>
+       <use xlink:href="#Helvetica-6e" x="761.376953"/>
+       <use xlink:href="#Helvetica-65" x="816.992188"/>
+       <use xlink:href="#Helvetica-63" x="872.607422"/>
+       <use xlink:href="#Helvetica-74" x="922.607422"/>
+       <use xlink:href="#Helvetica-69" x="950.390625"/>
+       <use xlink:href="#Helvetica-63" x="972.607422"/>
+       <use xlink:href="#Helvetica-75" x="1022.607422"/>
+       <use xlink:href="#Helvetica-74" x="1078.222656"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_45">
+     <g id="line2d_53">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="177.88419" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_53">
+      <!-- University of Chicago -->
+      <g transform="translate(60.771875 181.568565) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-43" x="577.929688"/>
+       <use xlink:href="#Helvetica-68" x="650.146484"/>
+       <use xlink:href="#Helvetica-69" x="705.761719"/>
+       <use xlink:href="#Helvetica-63" x="727.978516"/>
+       <use xlink:href="#Helvetica-61" x="777.978516"/>
+       <use xlink:href="#Helvetica-67" x="833.59375"/>
+       <use xlink:href="#Helvetica-6f" x="889.208984"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_46">
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="155.633212" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <!-- University of Rochester -->
+      <g transform="translate(51.885937 159.270712) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-55"/>
+       <use xlink:href="#Helvetica-6e" x="72.216797"/>
+       <use xlink:href="#Helvetica-69" x="127.832031"/>
+       <use xlink:href="#Helvetica-76" x="150.048828"/>
+       <use xlink:href="#Helvetica-65" x="200.048828"/>
+       <use xlink:href="#Helvetica-72" x="255.664062"/>
+       <use xlink:href="#Helvetica-73" x="288.964844"/>
+       <use xlink:href="#Helvetica-69" x="338.964844"/>
+       <use xlink:href="#Helvetica-74" x="361.181641"/>
+       <use xlink:href="#Helvetica-79" x="388.964844"/>
+       <use xlink:href="#Helvetica-20" x="438.964844"/>
+       <use xlink:href="#Helvetica-6f" x="466.748047"/>
+       <use xlink:href="#Helvetica-66" x="522.363281"/>
+       <use xlink:href="#Helvetica-20" x="550.146484"/>
+       <use xlink:href="#Helvetica-52" x="577.929688"/>
+       <use xlink:href="#Helvetica-6f" x="650.146484"/>
+       <use xlink:href="#Helvetica-63" x="705.761719"/>
+       <use xlink:href="#Helvetica-68" x="755.761719"/>
+       <use xlink:href="#Helvetica-65" x="811.376953"/>
+       <use xlink:href="#Helvetica-73" x="866.992188"/>
+       <use xlink:href="#Helvetica-74" x="916.992188"/>
+       <use xlink:href="#Helvetica-65" x="944.775391"/>
+       <use xlink:href="#Helvetica-72" x="1000.390625"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_47">
+     <g id="line2d_55">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="133.382234" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_55">
+      <!-- Tulane University -->
+      <g transform="translate(78.003125 136.968952) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-54"/>
+       <use xlink:href="#Helvetica-75" x="61.083984"/>
+       <use xlink:href="#Helvetica-6c" x="116.699219"/>
+       <use xlink:href="#Helvetica-61" x="138.916016"/>
+       <use xlink:href="#Helvetica-6e" x="194.53125"/>
+       <use xlink:href="#Helvetica-65" x="250.146484"/>
+       <use xlink:href="#Helvetica-20" x="305.761719"/>
+       <use xlink:href="#Helvetica-55" x="333.544922"/>
+       <use xlink:href="#Helvetica-6e" x="405.761719"/>
+       <use xlink:href="#Helvetica-69" x="461.376953"/>
+       <use xlink:href="#Helvetica-76" x="483.59375"/>
+       <use xlink:href="#Helvetica-65" x="533.59375"/>
+       <use xlink:href="#Helvetica-72" x="589.208984"/>
+       <use xlink:href="#Helvetica-73" x="622.509766"/>
+       <use xlink:href="#Helvetica-69" x="672.509766"/>
+       <use xlink:href="#Helvetica-74" x="694.726562"/>
+       <use xlink:href="#Helvetica-79" x="722.509766"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_48">
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="111.131256" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_56">
+      <!-- Southern Methodist University -->
+      <g transform="translate(21.864062 114.815631) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-53"/>
+       <use xlink:href="#Helvetica-6f" x="66.699219"/>
+       <use xlink:href="#Helvetica-75" x="122.314453"/>
+       <use xlink:href="#Helvetica-74" x="177.929688"/>
+       <use xlink:href="#Helvetica-68" x="205.712891"/>
+       <use xlink:href="#Helvetica-65" x="261.328125"/>
+       <use xlink:href="#Helvetica-72" x="316.943359"/>
+       <use xlink:href="#Helvetica-6e" x="350.244141"/>
+       <use xlink:href="#Helvetica-20" x="405.859375"/>
+       <use xlink:href="#Helvetica-4d" x="433.642578"/>
+       <use xlink:href="#Helvetica-65" x="516.943359"/>
+       <use xlink:href="#Helvetica-74" x="572.558594"/>
+       <use xlink:href="#Helvetica-68" x="600.341797"/>
+       <use xlink:href="#Helvetica-6f" x="655.957031"/>
+       <use xlink:href="#Helvetica-64" x="711.572266"/>
+       <use xlink:href="#Helvetica-69" x="767.1875"/>
+       <use xlink:href="#Helvetica-73" x="789.404297"/>
+       <use xlink:href="#Helvetica-74" x="839.404297"/>
+       <use xlink:href="#Helvetica-20" x="867.1875"/>
+       <use xlink:href="#Helvetica-55" x="894.970703"/>
+       <use xlink:href="#Helvetica-6e" x="967.1875"/>
+       <use xlink:href="#Helvetica-69" x="1022.802734"/>
+       <use xlink:href="#Helvetica-76" x="1045.019531"/>
+       <use xlink:href="#Helvetica-65" x="1095.019531"/>
+       <use xlink:href="#Helvetica-72" x="1150.634766"/>
+       <use xlink:href="#Helvetica-73" x="1183.935547"/>
+       <use xlink:href="#Helvetica-69" x="1233.935547"/>
+       <use xlink:href="#Helvetica-74" x="1256.152344"/>
+       <use xlink:href="#Helvetica-79" x="1283.935547"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_49">
+     <g id="line2d_57">
+      <g>
+       <use xlink:href="#m8e343aef83" x="162.25" y="88.880278" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <!-- Duke University -->
+      <g transform="translate(85.232812 92.466996) scale(0.1 -0.1)">
+       <use xlink:href="#Helvetica-44"/>
+       <use xlink:href="#Helvetica-75" x="72.216797"/>
+       <use xlink:href="#Helvetica-6b" x="127.832031"/>
+       <use xlink:href="#Helvetica-65" x="177.832031"/>
+       <use xlink:href="#Helvetica-20" x="233.447266"/>
+       <use xlink:href="#Helvetica-55" x="261.230469"/>
+       <use xlink:href="#Helvetica-6e" x="333.447266"/>
+       <use xlink:href="#Helvetica-69" x="389.0625"/>
+       <use xlink:href="#Helvetica-76" x="411.279297"/>
+       <use xlink:href="#Helvetica-65" x="461.279297"/>
+       <use xlink:href="#Helvetica-72" x="516.894531"/>
+       <use xlink:href="#Helvetica-73" x="550.195312"/>
+       <use xlink:href="#Helvetica-69" x="600.195312"/>
+       <use xlink:href="#Helvetica-74" x="622.412109"/>
+       <use xlink:href="#Helvetica-79" x="650.195312"/>
       </g>
      </g>
     </g>
    </g>
    <g id="text_58">
     <!-- Which university, United States -->
-    <g transform="translate(223.110938 19.6425)scale(0.12 -0.12)">
+    <g transform="translate(223.095313 19.6875) scale(0.12 -0.12)">
      <use xlink:href="#Helvetica-57"/>
      <use xlink:href="#Helvetica-68" x="94.384766"/>
      <use xlink:href="#Helvetica-69" x="150"/>
@@ -3650,8 +3652,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p1bf23c9dbe">
-   <rect x="162.28125" y="25.6425" width="287.71875" height="1195.299688"/>
+  <clipPath id="p51e33f7ff7">
+   <rect x="162.25" y="25.6875" width="287.75" height="1194.4325"/>
   </clipPath>
  </defs>
 </svg>

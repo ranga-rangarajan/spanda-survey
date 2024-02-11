@@ -1,5 +1,5 @@
 chevron
-pandas>=1.2.0
+pandas==1.2.0
 matplotlib
 geopandas
 tabulate
