@@ -1,9 +1,9 @@
 title: RSE International Survey 2022
 remote_theme: pmarsceill/just-the-docs
 description: >- # this means to ignore newlines until "baseurl:"
-  International Research Software Engineering survey (2022)
-baseurl: "/international-survey-2022" # the subpath of your site, e.g.  /blog
-url: "https://softwaresaved.github.io"
+  Spanda Engineering survey (2024)
+baseurl: "/spanda-survey" # the subpath of your site, e.g.  /blog
+url: "https://github.com/ranga-rangarajan/spanda-survey"
 
 search_enabled: true
 color_scheme: survey
@@ -23,11 +23,11 @@ kramdown:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2022 Software Sustainability Institute, <a href=\"https://github.com/softwaresaved/international-survey-2018/blob/main/LICENSE\">BSD 3-Clause License</a>"
+footer_content: "Copyright &copy; 2024 Spanda.ai, <a href=\"https://github.com/ranga-rangarajan/spanda-survey/blob/main/LICENSE\">BSD 3-Clause License</a>"
 
 aux_links:
   "Source on GitHub":
-    - "//github.com/softwaresaved/international-survey-2022"
+    - "//github.com/ranga-rangarajan/spanda-survey"
 
 just_the_docs:
   collections:
