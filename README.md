@@ -82,7 +82,7 @@ python run.py <section>
 So for example to generate the current-employment section: `python run.py current-employment`
 
 * Two types of reports are generated: section reports and country reports. Section reports are useful for comparing countries for a particular section of the survey,
-  such as demographics or job satisfaction, whilst country reports give an overview of a country across the different sections of the survey. Both the section and country reports utilise templates from [templates](templates) corresponding to each section (or from [international survey lib submodule repo](https://ranga-rangarajan.github.io/spanda-survey-lib/tree/main/templates) if they are not found). The country report template `country_report.md` is also found and used from one of these locations in the same way as for sections.
+  such as demographics or job satisfaction, whilst country reports give an overview of a country across the different sections of the survey. Both the section and country reports utilise templates from [templates](templates) corresponding to each section. The country report template `country_report.md` is also found and used from one of these locations in the same way as for sections.
   The template file uses the [Mustache](https://mustache.github.io) templating language via the [chevron](https://pypi.org/project/chevron/) module.
 * Section reports are generated in [_section](_section)
 * Country reports are generated in [_country](_country)
@@ -91,8 +91,9 @@ So for example to generate the current-employment section: `python run.py curren
 * The source data used for the analysis is at [data](data)
 
 ### Displaying the report as a website
+ https://ranga-rangarajan.github.io/spanda-survey/
 
-* We use [Jekyll](https://jekyllrb.com) and [Github Pages](https://pages.github.com) to build the website hosted at < https://ranga-rangarajan.github.io/spanda-survey/>.
+* We use [Jekyll](https://jekyllrb.com) and [Github Pages](https://pages.github.com) to build the website hosted at <https://ranga-rangarajan.github.io/spanda-survey/>.
 * Stylesheets for the site are at [_sass](_sass)
 * Configuration of the site is at [_config.yml](_config.yml)
 * The hosted site can be viewed locally by using the command `bundle exec jekyll serve` in the docs folder and following the localhost URL. If this is the first time setting up Jekyll on your computer, ensure that you have Ruby and Bundle installed (`gem install bundler`).
