@@ -1,4 +1,4 @@
-[![Python 3.9](https://github.com/softwaresaved/international-survey-2018/actions/workflows/python-package.yml/badge.svg)](https://github.com/softwaresaved/international-survey-2018/actions/workflows/python-package.yml)
+[![Python 3.9]( https://ranga-rangarajan.github.io/spanda-survey/actions/workflows/python-package.yml/badge.svg)]( https://ranga-rangarajan.github.io/spanda-survey/actions/workflows/python-package.yml)
 
 
 # RSE International Survey Analysis
@@ -22,8 +22,8 @@ To reproduce the results on your machine, first clone the repository and setup
 the Python virtual environment:
 
 ```bash
-git clone --recurse-submodules https://github.com/softwaresaved/international-survey-2022
-cd international-survey-2022
+git clone --recurse-submodules  https://ranga-rangarajan.github.io/spanda-survey/
+cd [spanda-survey]
 python -m venv venv  # use python3 if your default python is still Python 2
 source venv/bin/activate
 python -m pip install -r requirements.txt
@@ -75,14 +75,14 @@ This should create a `cache/processed_data.csv` file within the `docs` folder. O
 python run.py <section>
 ```
 
-### How it works
+### How it works 
 
 ### Generating the report
 
 So for example to generate the current-employment section: `python run.py current-employment`
 
 * Two types of reports are generated: section reports and country reports. Section reports are useful for comparing countries for a particular section of the survey,
-  such as demographics or job satisfaction, whilst country reports give an overview of a country across the different sections of the survey. Both the section and country reports utilise templates from [templates](templates) corresponding to each section (or from [international survey lib submodule repo](https://github.com/softwaresaved/international-survey-lib/tree/main/templates) if they are not found). The country report template `country_report.md` is also found and used from one of these locations in the same way as for sections.
+  such as demographics or job satisfaction, whilst country reports give an overview of a country across the different sections of the survey. Both the section and country reports utilise templates from [templates](templates) corresponding to each section (or from [international survey lib submodule repo](https://ranga-rangarajan.github.io/spanda-survey-lib/tree/main/templates) if they are not found). The country report template `country_report.md` is also found and used from one of these locations in the same way as for sections.
   The template file uses the [Mustache](https://mustache.github.io) templating language via the [chevron](https://pypi.org/project/chevron/) module.
 * Section reports are generated in [_section](_section)
 * Country reports are generated in [_country](_country)
@@ -92,7 +92,7 @@ So for example to generate the current-employment section: `python run.py curren
 
 ### Displaying the report as a website
 
-* We use [Jekyll](https://jekyllrb.com) and [Github Pages](https://pages.github.com) to build the website hosted at <https://softwaresaved.github.io/international-survey-2022>.
+* We use [Jekyll](https://jekyllrb.com) and [Github Pages](https://pages.github.com) to build the website hosted at < https://ranga-rangarajan.github.io/spanda-survey/>.
 * Stylesheets for the site are at [_sass](_sass)
 * Configuration of the site is at [_config.yml](_config.yml)
 * The hosted site can be viewed locally by using the command `bundle exec jekyll serve` in the docs folder and following the localhost URL. If this is the first time setting up Jekyll on your computer, ensure that you have Ruby and Bundle installed (`gem install bundler`).
@@ -131,8 +131,8 @@ Here is a list of contributors for the 2022 version of the survey (last name alp
 ## Licence 
 
 This repository contains code and public data. We have different licence for each
-* The code is released under [BSD 3-Clause License](https://github.com/softwaresaved/international-survey/blob/master/LICENSE.md).
-* The data stored in this repository is under the [CC BY 2.5 SCOTLAND](https://github.com/softwaresaved/international-survey/blob/master/LICENSE_FOR_DATA).
+* The code is released under [BSD 3-Clause License](https://ranga-rangarajan.github.io/spanda-survey//blob/master/LICENSE.md).
+* The data stored in this repository is under the [CC BY 2.5 SCOTLAND](https://ranga-rangarajan.github.io/spanda-survey//blob/master/LICENSE_FOR_DATA).
 
 The repository is also archived on Zenodo: <https://doi.org/10.5281/zenodo.6884882>.
 If you want to cite this work and need a citation in a specific format, you can use the citation service on the zenodo.
